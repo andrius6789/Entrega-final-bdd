@@ -43,7 +43,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $result->bindParam(':password', $password);
         $result->execute();
     } catch (PDOException $e) {
-        // Handle any database-related errors
+        // Handle any errors
         echo "Error: " . $e->getMessage();
         exit();
     }
@@ -56,6 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <div class='main'>
+        <!-- Cambiar el titulo si es que queramos -->
         <h1 class='title'>META DATABASES</h1>
 
         <form action='./queries/register.php' method='POST'>

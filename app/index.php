@@ -1,4 +1,5 @@
 <?php
+// Index is really just the homepage
 session_start();
 include('./templates/header.html');
 ?>
@@ -7,15 +8,29 @@ include('./templates/header.html');
     <div class='main'>
         <h1 class='title'>META DATABASES </h1>
 
+        <!-- Nav Bar? -->
+        <nav>
+            <ul>
+                <?php
+                // Check if a user is logged in
+                if (isset($_SESSION['username'])) {
+                    // User is logged in, display "Mi Perfil"
+                    echo "<li><a href='./queries/profile.php'>Mi Perfil</a></li>";
+                }
+                ?>
+                <li>
+                    <form action='./queries/login.php' method='GET'>
+                        <input class='btn' type='submit' value='Iniciar Sesión'>
+                    </form>
+                </li>
+            </ul>
+        </nav>
+
         <?php
         // Check if a user is logged in
         if (isset($_SESSION['username'])) {
-            // User is logged in, display the main content
+            // User is logged in, display main content
             echo "
-            <form  action='./queries/login.php' method='GET'>
-                <input class='btn' type='submit' value='Usuario'>
-            </form>
-
             <div class='container'>
                 <h3>Ver base de datos 1</h3>
                 <form  action='./queries/bdd1.php' method='GET'>
@@ -41,7 +56,7 @@ include('./templates/header.html');
                 </form>
             </div>";
         } else {
-            // No esta en una sesion, redirect
+            // No session, display login form
             echo "
             <p>Por favor, inicia sesión para acceder a las funciones.</p>
             <form  action='./queries/login.php' method='GET'>
