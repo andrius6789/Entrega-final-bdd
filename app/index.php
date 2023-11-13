@@ -27,14 +27,20 @@ include('./templates/header.html');
             // User is logged in, display main content
             echo "
             <div class='container'>
-                <h3>Ver base de datos 1</h3>
+                <h3>Ver peliculas y series</h3>
                 <form  action='./queries/bdd1.php' method='GET'>
                     <input class='btn' type='submit' value='Consultar'>
                 </form>
             </div>
             <div class='container'>
-                <h3>Ver base de datos 2</h3>
+                <h3>Ver juegos</h3>
                 <form  action='./queries/bdd2.php' method='GET'>
+                    <input class='btn' type='submit' value='Consultar'>
+                </form>
+            </div>
+            <div class='container'>
+                <h3>Consulta Inestructurada</h3>
+                <form  action='./queries/consulta_inex.php' method='GET'>
                     <input class='btn' type='submit' value='Consultar'>
                 </form>
             </div>
