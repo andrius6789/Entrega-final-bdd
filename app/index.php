@@ -18,11 +18,6 @@ include('./templates/header.html');
                     echo "<li><a href='./queries/profile.php'>Mi Perfil</a></li>";
                 }
                 ?>
-                <li>
-                    <form action='./queries/login.php' method='GET'>
-                        <input class='btn' type='submit' value='Iniciar Sesión'>
-                    </form>
-                </li>
             </ul>
         </nav>
 

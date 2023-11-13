@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class='main'>
         <h1 class='title'>META DATABASES</h1>
 
-        <form action='./queries/login.php' method='POST'>
+        <form action='login.php' method='POST'>
             <label for="username">Username:</label>
             <input type="text" name="username" required>
 
@@ -52,6 +52,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <input type="password" name="password" required>
 
             <input class='btn' type='submit' value='Login'>
+        </form>
+
+        <form action='register.php' method='GET'>
+            <input class='btn' type='submit' value='Register'>
         </form>
     </div>
 </body>

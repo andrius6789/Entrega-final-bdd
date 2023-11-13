@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!-- Cambiar el titulo si es que queramos -->
         <h1 class='title'>META DATABASES</h1>
 
-        <form action='./queries/register.php' method='POST'>
+        <form action='register.php' method='POST'>
             <label for="username">Username:</label>
             <input type="text" name="username" required>
 
