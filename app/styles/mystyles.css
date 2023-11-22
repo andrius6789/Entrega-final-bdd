@@ -1,6 +1,3 @@
-/* Este archivo no es necesario. Solo es para cambiar las propiedades de los objetos HTML
-Es mucho más fácil implementar una plantilla de Bootstrap que cambiar estas cosas a mano */
-
 input {
     width: 10%;
     height: 20px;
@@ -17,7 +14,7 @@ input[type=submit] {
 }
 
 button {
-    background-color: green;
+    background-color: purple;
     color: white;
     border: none;
     border-radius: 5px;
@@ -27,7 +24,7 @@ button {
 }
 
 h1 {
-    color: green;
+    color: purple;
 }
 
 h1,
@@ -53,7 +50,7 @@ table.center {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: blue;
     color: white;
 }
 
