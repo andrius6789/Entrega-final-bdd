@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $password = $_POST['password'];
 
         // Check if the username exists
-        $checkQuery = "SELECT * FROM users WHERE username = :username";
+        $checkQuery = "SELECT * FROM usuarios WHERE username = :username";
         $result = $db->prepare($checkQuery);
         $result->bindParam(':username', $username);
         $result->execute();

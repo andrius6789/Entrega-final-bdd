@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     try {
         // Check if the username already exists
-        $checkQuery = "SELECT COUNT(*) FROM users WHERE username = :username";
+        $checkQuery = "SELECT COUNT(*) FROM usuarios WHERE username = :username";
         $result = $db->prepare($checkQuery);
         $result->bindParam(':username', $username);
         $result->execute();
@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
         // Insert the user into the database
-        $insertQuery = "INSERT INTO users (username, name, email, birthdate, password) VALUES (:username, :name, :email, :birthdate, :password)";
+        $insertQuery = "INSERT INTO usuarios (username, nombre, email, fecha_de_nacimiento, password) VALUES (:username, :name, :email, :birthdate, :password)";
         $result = $db->prepare($insertQuery);
         $result->bindParam(':username', $username);
         $result->bindParam(':name', $name);
@@ -42,6 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $result->bindParam(':birthdate', $birthdate);
         $result->bindParam(':password', $password);
         $result->execute();
+        
     } catch (PDOException $e) {
         // Handle any errors
         echo "Error: " . $e->getMessage();
