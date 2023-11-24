@@ -1,5 +1,4 @@
 <?php
-
 require("../config/conexion.php");
 
 function sanitizeInput($input)
@@ -10,7 +9,7 @@ function sanitizeInput($input)
 // Validar y sanitizar el input
 $attributes = isset($_GET['attributes']) ? sanitizeInput($_GET['attributes']) : '';
 $tableName = isset($_GET['table']) ? sanitizeInput($_GET['table']) : '';
-$criteria = isset($_GET['criteria']) ? sanitizeInput($_GET['criteria']) : '';
+$criteria = isset($_POST['criteria']) ? sanitizeInput($_POST['criteria']) : '';
 
 // Ver si se entrega todo lo que se pide
 if (empty($attributes) || empty($tableName) || empty($criteria)) {
@@ -44,5 +43,18 @@ try {
 } catch (PDOException $e) {
     echo "Error: " . $e->getMessage();
 }
-
 ?>
+
+<body>
+    <h2>Consulta Inestructurada</h2>
+    <form action="consulta_inestructurada.php" method="post">
+        <label for="criteria">Criterio:</label>
+        <input type="text" name="criteria" required>
+
+        <input type="hidden" name="attributes" value="<?php echo $attributes; ?>">
+        <input type="hidden" name="table" value="<?php echo $tableName; ?>">
+
+        <input class="btn" type="submit" value="Consultar">
+    </form>
+</body>
+</html>
