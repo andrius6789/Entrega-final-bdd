@@ -1,254 +1,254 @@
 id_mm,id_pelicula,id_serie,titulo,año,puntuacion,clasificacion,duracion
-0,1.0,,Return to Babylon,2013,7.1,G,75
-1,2.0,,Life's a Beach,2012,9.0,PG-13,100
-2,3.0,,'77,2017,2.1,G,113
-3,4.0,,In My Sleep,2010,1.6,PG,104
-4,5.0,,The Evil Within,2017,4.6,PG-13,98
-5,6.0,,Fahrenheit 451,2018,3.0,G,100
-6,7.0,,A Walk Among the Tombstones,2014,2.7,G,114
-7,8.0,,Jurassic World,2015,7.8,G,124
-8,9.0,,The Three Stooges,2012,2.1,PG-13,92
-9,10.0,,Motherless Brooklyn,2019,9.7,PG-13,144
-10,11.0,,Anderson's Cross,2010,4.2,PG,98
-11,12.0,,Tangled,2010,7.9,PG,100
-12,13.0,,John Carter,2012,5.4,NC-17,132
-13,14.0,,Disconnect,2010,2.1,PG-13,112
-14,15.0,,The Stanford Prison Experiment,2015,1.2,PG-13,122
-15,16.0,,Venus & Vegas,2010,7.8,PG-13,95
-16,17.0,,Dinner for Schmucks,2010,5.1,G,114
-17,18.0,,A Million Little Pieces,2018,4.3,PG-13,113
-18,19.0,,Satin,2011,5.8,PG-13,84
-19,20.0,,Toy Story 3,2010,1.1,G,103
-20,21.0,,Before We Go,2014,9.1,PG-13,95
-21,22.0,,A Bird of the Air,2011,5.1,PG-13,108
-22,23.0,,Puss in Boots,2011,4.0,PG-13,90
-23,24.0,,Mad World,2010,7.0,PG,98
-24,25.0,,The Passing,2011,2.2,PG-13,92
-25,26.0,,Sludge,2017,1.7,G,95
-26,27.0,,42,2013,6.7,G,128
-27,28.0,,Being Flynn,2012,9.9,PG,102
-28,29.0,,The Equalizer,2014,3.9,PG,132
-29,30.0,,Captain America: The First Avenger,2011,4.1,PG,124
-30,31.0,,Sin City: A Dame to Kill For,2014,9.1,PG,102
-31,32.0,,Drunkboat,2010,8.6,PG,98
-32,33.0,,The Only Living Boy in New York,2017,7.0,PG,89
-33,34.0,,Satan Hates You,2010,8.2,NC-17,94
-34,35.0,,The Devil You Know,2013,2.0,G,76
-35,36.0,,House at the End of the Drive,2014,1.1,G,91
-36,37.0,,Margaret,2011,1.7,PG-13,150
-37,38.0,,Harlem Hostel,2010,3.7,PG-13,81
-38,39.0,,Smoking Nonsmoking,2011,3.2,PG,84
-39,40.0,,Tower Heist,2011,5.9,PG-13,104
-40,41.0,,The Mechanic,2011,8.7,G,93
-41,42.0,,Prince of Persia: The Sands of Time,2010,2.4,PG,116
-42,43.0,,Unstoppable,2010,3.3,G,98
-43,44.0,,Extremely Loud & Incredibly Close,2011,4.1,G,129
-44,45.0,,The Tree of Life,2011,7.4,PG-13,139
-45,46.0,,Ant-Man,2015,7.4,PG-13,117
-46,47.0,,Season of the Witch,2011,2.6,PG,95
-47,48.0,,Atlas Shrugged: Part I,2011,3.3,G,97
-48,49.0,,Hall Pass,2011,3.7,PG-13,105
-49,50.0,,The Croods,2013,5.3,G,98
-50,51.0,,Barry Munday,2010,5.0,PG,95
-51,52.0,,Chasing 3000,2010,9.8,G,115
-52,53.0,,Red Tails,2012,5.2,G,125
-53,54.0,,Aftermath,2013,3.6,PG-13,84
-54,55.0,,The Invited,2010,5.3,G,95
-55,56.0,,Something Borrowed,2011,3.2,PG-13,112
-56,57.0,,CHIPS,2017,3.6,PG,100
-57,58.0,,Ramona and Beezus,2010,5.4,G,104
-58,59.0,,Rings,2017,7.3,G,102
-59,60.0,,Love & Other Drugs,2010,6.8,PG-13,112
-60,61.0,,Syrup,2013,2.6,PG-13,90
-61,62.0,,A Thousand Words,2012,5.2,PG-13,91
-62,63.0,,The Legend of Secret Pass,2010,8.9,G,92
-63,64.0,,Night of the Templar,2013,9.0,PG,101
-64,65.0,,What's Your Number?,2011,1.4,G,106
-65,66.0,,Jersey Justice,2014,6.3,PG-13,100
-66,67.0,,Cell,2016,8.8,PG,98
-67,68.0,,Night Catches Us,2010,7.4,PG,90
-68,69.0,,Drive,2011,1.1,G,100
-69,70.0,,Kid Cannabis,2014,8.9,PG,110
-70,71.0,,Santorini Blue,2013,6.7,PG,90
-71,72.0,,The Wolfman,2010,4.5,G,103
-72,73.0,,The Last Full Measure,2019,9.7,G,116
-73,74.0,,The Boxtrolls,2014,1.0,NC-17,96
-74,75.0,,The Incredible Burt Wonderstone,2013,4.6,PG,100
-75,76.0,,Dallas Buyers Club,2013,4.9,PG,117
-76,77.0,,Elliot Loves,2012,1.9,G,92
-77,78.0,,Jack Reacher,2012,9.8,G,130
-78,79.0,,R.I.P.D.,2013,5.1,PG-13,96
-79,80.0,,Miles Ahead,2015,5.6,G,100
-80,81.0,,The Yellow Wallpaper,2012,5.3,PG,115
-81,82.0,,Scary Movie 5,2013,7.2,PG,88
-82,83.0,,13,2010,2.6,PG-13,91
-83,84.0,,The Dirt,2019,1.3,PG-13,107
-84,85.0,,Thor,2011,10.0,PG,115
-85,86.0,,Devil's Knot,2013,8.3,R,114
-86,87.0,,It's Kind of a Funny Story,2010,8.1,PG,101
-87,88.0,,Jack and Jill,2011,3.0,G,91
-88,89.0,,The Do-Deca-Pentathlon,2012,9.4,PG,76
-89,90.0,,She's Out of My League,2010,9.6,G,104
-90,91.0,,Flipped,2010,6.9,PG-13,90
-91,92.0,,Valentine's Day,2010,5.3,PG,125
-92,93.0,,The Power of Few,2013,4.5,G,96
-93,94.0,,Dreamkiller,2010,8.5,PG-13,110
-94,95.0,,Priest,2011,3.8,PG,87
-95,96.0,,Maximum Ride,2016,3.9,PG-13,88
-96,97.0,,Waking Madison,2010,5.2,G,89
-97,98.0,,The Babymakers,2012,6.6,NC-17,95
-98,99.0,,Electric Slide,2014,6.7,PG,95
-99,100.0,,Krystal,2017,2.0,PG-13,90
-100,101.0,,Scream,1996,7.0,NC-17,111
-101,,11.0,La primera polaroid,2017,8.3,R,62
-102,,11.0,Casete 1: lado A,2017,8.3,R,60
-103,,11.0,Si: soy la chica nueva,2017,8.3,R,56
-104,,8.0,Carla,2018,5.8,R,58
-105,,7.0,Hemos vuelto,2017,8.0,PG-13,50
-106,,5.0,Los sobrevivientes,2017,9.9,PG-13,59
-107,,7.0,Efectuar lo acordado,2017,8.0,PG-13,50
-108,,22.0,Episode 1,2013,8.6,PG,40
-109,,5.0,Principios y finales,2017,9.9,PG-13,53
-110,,27.0,The Return,2009,9.2,PG-13,49
-111,,7.0,Se acabaron las m√°scaras,2017,8.0,PG-13,50
-112,,8.0,Bienvenidos,2018,5.8,R,60
-113,,27.0,Pilot,2009,9.2,PG-13,49
-114,,22.0,Episode 1,2013,8.6,PG,42
-115,,29.0,Estudio en rosa,2010,9.2,PG-13,60
-116,,5.0,Deja vu,2017,9.9,PG-13,60
-117,,29.0,Esc√°ndalo en Belgravia,2010,9.2,PG-13,60
-118,,29.0,Many Happy Returns,2010,9.2,PG-13,60
-119,,8.0,20 horas desaparecido,2018,5.8,R,55
-120,,22.0,Episode 1,2013,8.6,PG,41
-121,,5.0,Secretos,2017,9.9,PG-13,51
-122,,5.0,Materia oscura,2017,9.9,PG-13,54
-123,,5.0,Mentiras,2017,9.9,PG-13,44
-124,,27.0,The Birthday,2009,9.2,PG-13,49
-125,,31.0,Exposed,2015,7.4,NC-17,44
-126,,31.0,Psycho,2015,7.4,NC-17,45
-127,,1.0,Episode 4,2019,8.0,R,65
-128,,2.0,El de los Kips,1994,9.5,PG,22
-129,,2.0,El de la leche materna,1994,9.5,PG,22
-130,,2.0,El de la medusa,1994,9.5,PG,22
-131,,2.0,El de las esposas,1994,9.5,PG,24
-132,,1.0,Episode 1,2019,8.0,R,62
-133,,2.0,El de despu√©s de que Ross dijera el nombre de Rachel,1994,9.5,PG,22
-134,,1.0,Episode 5,2019,8.0,R,64
-135,,18.0,El recuerdo de un recuerdo,2010,9.4,G,21
-136,,2.0,El de la gata,1994,9.5,PG,26
-137,,2.0,El de la carne para cinco y una berenjena,1994,9.5,PG,26
-138,,2.0,El de George Stephanopoulos,1994,9.5,PG,23
-139,,2.0,El de los trillizos,1994,9.5,PG,24
-140,,2.0,El del t√∫nel metaf√≥rico,1994,9.5,PG,22
-141,,28.0,Pilot,2007,8.0,PG-13,40
-142,,2.0,El de los bailes de sal√≥n,1994,9.5,PG,24
-143,,2.0,El de cuando muere Heckles,1994,9.5,PG,23
-144,,1.0,Episode 2,2019,8.0,R,66
-145,,2.0,El de cuando nadie est√° listo,1994,9.5,PG,22
-146,,2.0,El de Frank Jr.,1994,9.5,PG,26
-147,,2.0,El de la nueva novia de Ross,1994,9.5,PG,25
-148,,18.0,Lleg√≥ de la Noche√≥sfera,2010,9.4,G,21
-149,,1.0,Episode 3,2019,8.0,R,59
-150,,2.0,El que Phoebe odia la PBS,1994,9.5,PG,26
-151,,2.0,El del detergente de lavander√≠a germano-oriental,1994,9.5,PG,22
-152,,2.0,El esposo de Phoebe,1994,9.5,PG,24
-153,,2.0,En el que todo empieza,1994,9.5,PG,22
-154,,28.0,Verano: una especie de maravilla,2007,8.0,PG-13,42
-155,,2.0,El del pulgar,1994,9.5,PG,21
-156,,2.0,El de los besos,1994,9.5,PG,24
-157,,28.0,Los contratiempos de la Fortuna,2007,8.0,PG-13,45
-158,,2.0,El de la mermelada,1994,9.5,PG,24
-159,,2.0,El de la ecograf√≠a final,1994,9.5,PG,20
-160,,18.0,Panico en la fiesta del palacio,2010,9.4,G,21
-161,,2.0,El de la fantas√≠a de la Princesa Leia,1994,9.5,PG,25
-162,,2.0,El de la nueva novia de Joey,1994,9.5,PG,26
-163,,19.0,Los siete magn√≠ficos,2005,8.5,PG-13,58
-164,,13.0,Cap√≠tulo 14: Un beso antes de morir,2017,4.3,PG-13,60
-165,,13.0,Cap√≠tulo 1: Corrientes traicioneras,2017,4.3,PG-13,55
-166,,19.0,Wendigo,2005,8.5,PG-13,55
-167,,19.0,En mi tiempo de morir,2005,8.5,PG-13,50
-168,,13.0,Cap√≠tulo 36: D√≠a del Trabajo,2017,4.3,PG-13,62
-169,,9.0,Misadventure,2016,9.5,PG-13,60
-170,,9.0,Wolferton Splash,2016,9.5,PG-13,62
-171,,9.0,Olding,2016,9.5,PG-13,58
-172,,24.0,Se√±al de humo,2010,9.8,PG-13,23
-173,,24.0,A ti: 2.000 a√±os en el futuro,2010,9.8,PG-13,23
-174,,24.0,El tit√°n bestia,2010,9.8,PG-13,23
-175,,3.0,El maestro del juego,2012,10.0,PG,23
-176,,3.0,Juventud con dio,2012,10.0,PG,23
-177,,3.0,¬°Josuke Higashikata! Conoce a Angelo,2012,10.0,PG,23
-178,,3.0,Jojo vs. la forma de vida definitiva,2012,10.0,PG,23
-179,,14.0,Partida x Y x Compa√±eros,2011,7.5,G,24
-180,,3.0,Dio: el invasor,2012,10.0,PG,23
-181,,25.0,Interludio,2003,8.6,PG,23
-182,,3.0,Silver Chariot,2012,10.0,PG,23
-183,,3.0,Los guerreros definitivos de tiempos antiguos,2012,10.0,PG,23
-184,,3.0,Los Hermanos Nijimura (Parte 2),2012,10.0,PG,23
-185,,3.0,¬°Jotaro Kujo! Conoce a Josuke Higashikata,2012,10.0,PG,23
-186,,3.0,un hombre pose√≠do por un esp√≠ritu maligno,2012,10.0,PG,23
-187,,3.0,Overdrive,2012,10.0,PG,23
-188,,14.0,Un x Guardi√°n x Peligroso,2011,7.5,G,24
-189,,3.0,Los caballeros oscuros,2012,10.0,PG,23
-190,,25.0,Los que acechan bajo tierra,2003,8.6,PG,23
-191,,3.0,El jojo de nueva york,2012,10.0,PG,23
-192,,3.0,Tower of gray,2012,10.0,PG,23
-193,,3.0,¬°¬øqui√©n ser√° el juez?!,2012,10.0,PG,23
-194,,25.0,El alquimista de acero,2003,8.6,PG,23
-195,,3.0,Una carta del pasado,2012,10.0,PG,23
-196,,3.0,Los Hermanos Nijimura (Parte 1),2012,10.0,PG,23
-197,,14.0,Respuesta de papa,2011,7.5,G,24
-198,,3.0,Los Hermanos Nijimura (Parte 3),2012,10.0,PG,23
-199,,3.0,El hombre del pilar,2012,10.0,PG,23
-200,,3.0,La maldici√≥n de dio,2012,10.0,PG,23
-201,,6.0,Relox,2003,10.0,G,32
-202,,6.0,El comienzo,2003,10.0,G,29
-203,,26.0,El estado avatar,2005,7.9,G,24
-204,,6.0,El arbol furioso,2003,10.0,G,31
-205,,6.0,Cirug√≠a,2003,10.0,G,32
-206,,6.0,La maquina del tiempo,2003,10.0,G,31
-207,,6.0,Vacaciones,2003,10.0,G,34
-208,,26.0,El despertar,2005,7.9,G,24
-209,,26.0,El ni√±o en el iceberg,2005,7.9,G,24
-210,,6.0,Por el sr. manguera,2003,10.0,G,28
-211,,6.0,La mona lisa,2003,10.0,G,32
-212,,4.0,Viento,2007,9.8,PG-13,20
-213,,4.0,La pupila de la serpiente,2007,9.8,PG-13,20
-214,,20.0,Las aventuras de Supergirl,2015,6.4,G,40
-215,,10.0,Midoriya Izuku: Origen,2015,8.6,G,24
-216,,4.0,El nuevo objetivo,2007,9.8,PG-13,22
-217,,15.0,Empapada,2017,9.2,PG-13,62
-218,,4.0,Un asunto shinobi,2007,9.8,PG-13,21
-219,,16.0,Piloto,2004,9.3,R,43
-220,,30.0,Rose,2005,9.0,G,45
-221,,30.0,Smith y Jones,2005,9.0,G,45
-222,,17.0,Gotas de lluvia sobre mi cabeza,2005,8.7,R,42
-223,,4.0,La amenaza que se acerca en silencio,2007,9.8,PG-13,20
-224,,17.0,La noche de un d√≠a dif√≠cil,2005,8.7,R,40
-225,,10.0,Empieza el juego,2015,8.6,G,24
-226,,15.0,Los mejores planes,2017,9.2,PG-13,59
-227,,4.0,El precio del poder,2007,9.8,PG-13,20
-228,,16.0,Sentido,2004,9.3,R,44
-229,,20.0,La mujer de acero,2015,6.4,G,42
-230,,4.0,La invasi√≥n de Akatsuki,2007,9.8,PG-13,21
-231,,10.0,Libreta de h√©roes,2015,8.6,G,24
-232,,17.0,Lleg√≥ el momento,2005,8.7,R,45
-233,,16.0,Aceptaci√≥n,2004,9.3,R,42
-234,,4.0,El viajero,2007,9.8,PG-13,20
-235,,4.0,¬°Formaci√≥n: el nuevo equipo Kakashi!,2007,9.8,PG-13,20
-236,,15.0,Ant√°rtida,2017,9.2,PG-13,60
-237,,4.0,Pesadilla,2007,9.8,PG-13,21
-238,,4.0,El regreso a casa,2007,9.8,PG-13,22
-239,,20.0,M√°s fuertes juntos,2015,6.4,G,35
-240,,4.0,El sucesor de la t√©cnica prohibida,2007,9.8,PG-13,22
-241,,30.0,Nueva tierra,2005,9.0,G,46
-242,,4.0,El Akatsuki comienza a moverse,2007,9.8,PG-13,20
-243,,4.0,Ojo de halc√≥n,2007,9.8,PG-13,20
-244,,12.0,El fin y el comienzo,2014,10.0,G,20
-245,,12.0,Saludos,2014,10.0,G,21
-246,,12.0,¬°Vamos a Tokyo!,2014,10.0,G,22
-247,,21.0,Simpsons Roasting on an Open Fire,1989,9.1,PG-13,20
-248,,21.0,"Bart Gets an ""F""",1989,9.1,PG-13,20
-249,,21.0,Stark Raving Dad,1989,9.1,PG-13,20
-250,,23.0,Pilot,2013,8.3,PG,22
-251,,23.0,The Rickshank Rickdemption,2013,8.3,PG,22
-252,,23.0,A Rickle in Time,2013,8.3,PG,22
+0,1,,Return to Babylon,2013,7,G,75
+1,2,,Life's a Beach,2012,9,PG-13,100
+2,3,,'77,2017,2,G,113
+3,4,,In My Sleep,2010,2,PG,104
+4,5,,The Evil Within,2017,5,PG-13,98
+5,6,,Fahrenheit 451,2018,3,G,100
+6,7,,A Walk Among the Tombstones,2014,3,G,114
+7,8,,Jurassic World,2015,8,G,124
+8,9,,The Three Stooges,2012,2,PG-13,92
+9,10,,Motherless Brooklyn,2019,10,PG-13,144
+10,11,,Anderson's Cross,2010,4,PG,98
+11,12,,Tangled,2010,8,PG,100
+12,13,,John Carter,2012,5,NC-17,132
+13,14,,Disconnect,2010,2,PG-13,112
+14,15,,The Stanford Prison Experiment,2015,1,PG-13,122
+15,16,,Venus & Vegas,2010,8,PG-13,95
+16,17,,Dinner for Schmucks,2010,5,G,114
+17,18,,A Million Little Pieces,2018,4,PG-13,113
+18,19,,Satin,2011,6,PG-13,84
+19,20,,Toy Story 3,2010,1,G,103
+20,21,,Before We Go,2014,9,PG-13,95
+21,22,,A Bird of the Air,2011,5,PG-13,108
+22,23,,Puss in Boots,2011,4,PG-13,90
+23,24,,Mad World,2010,7,PG,98
+24,25,,The Passing,2011,2,PG-13,92
+25,26,,Sludge,2017,2,G,95
+26,27,,42,2013,7,G,128
+27,28,,Being Flynn,2012,10,PG,102
+28,29,,The Equalizer,2014,4,PG,132
+29,30,,Captain America: The First Avenger,2011,4,PG,124
+30,31,,Sin City: A Dame to Kill For,2014,9,PG,102
+31,32,,Drunkboat,2010,9,PG,98
+32,33,,The Only Living Boy in New York,2017,7,PG,89
+33,34,,Satan Hates You,2010,8,NC-17,94
+34,35,,The Devil You Know,2013,2,G,76
+35,36,,House at the End of the Drive,2014,1,G,91
+36,37,,Margaret,2011,2,PG-13,150
+37,38,,Harlem Hostel,2010,4,PG-13,81
+38,39,,Smoking Nonsmoking,2011,3,PG,84
+39,40,,Tower Heist,2011,6,PG-13,104
+40,41,,The Mechanic,2011,9,G,93
+41,42,,Prince of Persia: The Sands of Time,2010,2,PG,116
+42,43,,Unstoppable,2010,3,G,98
+43,44,,Extremely Loud & Incredibly Close,2011,4,G,129
+44,45,,The Tree of Life,2011,7,PG-13,139
+45,46,,Ant-Man,2015,7,PG-13,117
+46,47,,Season of the Witch,2011,3,PG,95
+47,48,,Atlas Shrugged: Part I,2011,3,G,97
+48,49,,Hall Pass,2011,4,PG-13,105
+49,50,,The Croods,2013,5,G,98
+50,51,,Barry Munday,2010,5,PG,95
+51,52,,Chasing 3000,2010,10,G,115
+52,53,,Red Tails,2012,5,G,125
+53,54,,Aftermath,2013,4,PG-13,84
+54,55,,The Invited,2010,5,G,95
+55,56,,Something Borrowed,2011,3,PG-13,112
+56,57,,CHIPS,2017,4,PG,100
+57,58,,Ramona and Beezus,2010,5,G,104
+58,59,,Rings,2017,7,G,102
+59,60,,Love & Other Drugs,2010,7,PG-13,112
+60,61,,Syrup,2013,3,PG-13,90
+61,62,,A Thousand Words,2012,5,PG-13,91
+62,63,,The Legend of Secret Pass,2010,9,G,92
+63,64,,Night of the Templar,2013,9,PG,101
+64,65,,What's Your Number?,2011,1,G,106
+65,66,,Jersey Justice,2014,6,PG-13,100
+66,67,,Cell,2016,9,PG,98
+67,68,,Night Catches Us,2010,7,PG,90
+68,69,,Drive,2011,1,G,100
+69,70,,Kid Cannabis,2014,9,PG,110
+70,71,,Santorini Blue,2013,7,PG,90
+71,72,,The Wolfman,2010,4,G,103
+72,73,,The Last Full Measure,2019,10,G,116
+73,74,,The Boxtrolls,2014,1,NC-17,96
+74,75,,The Incredible Burt Wonderstone,2013,5,PG,100
+75,76,,Dallas Buyers Club,2013,5,PG,117
+76,77,,Elliot Loves,2012,2,G,92
+77,78,,Jack Reacher,2012,10,G,130
+78,79,,R.I.P.D.,2013,5,PG-13,96
+79,80,,Miles Ahead,2015,6,G,100
+80,81,,The Yellow Wallpaper,2012,5,PG,115
+81,82,,Scary Movie 5,2013,7,PG,88
+82,83,,13,2010,3,PG-13,91
+83,84,,The Dirt,2019,1,PG-13,107
+84,85,,Thor,2011,10,PG,115
+85,86,,Devil's Knot,2013,8,R,114
+86,87,,It's Kind of a Funny Story,2010,8,PG,101
+87,88,,Jack and Jill,2011,3,G,91
+88,89,,The Do-Deca-Pentathlon,2012,9,PG,76
+89,90,,She's Out of My League,2010,10,G,104
+90,91,,Flipped,2010,7,PG-13,90
+91,92,,Valentine's Day,2010,5,PG,125
+92,93,,The Power of Few,2013,4,G,96
+93,94,,Dreamkiller,2010,8,PG-13,110
+94,95,,Priest,2011,4,PG,87
+95,96,,Maximum Ride,2016,4,PG-13,88
+96,97,,Waking Madison,2010,5,G,89
+97,98,,The Babymakers,2012,7,NC-17,95
+98,99,,Electric Slide,2014,7,PG,95
+99,100,,Krystal,2017,2,PG-13,90
+100,101,,Scream,1996,7,NC-17,111
+101,,11,La primera polaroid,2017,8,R,62
+102,,11,Casete 1: lado A,2017,8,R,60
+103,,11,Si: soy la chica nueva,2017,8,R,56
+104,,8,Carla,2018,6,R,58
+105,,7,Hemos vuelto,2017,8,PG-13,50
+106,,5,Los sobrevivientes,2017,10,PG-13,59
+107,,7,Efectuar lo acordado,2017,8,PG-13,50
+108,,22,Episode 1,2013,9,PG,40
+109,,5,Principios y finales,2017,10,PG-13,53
+110,,27,The Return,2009,9,PG-13,49
+111,,7,Se acabaron las m√°scaras,2017,8,PG-13,50
+112,,8,Bienvenidos,2018,6,R,60
+113,,27,Pilot,2009,9,PG-13,49
+114,,22,Episode 1,2013,9,PG,42
+115,,29,Estudio en rosa,2010,9,PG-13,60
+116,,5,Deja vu,2017,10,PG-13,60
+117,,29,Esc√°ndalo en Belgravia,2010,9,PG-13,60
+118,,29,Many Happy Returns,2010,9,PG-13,60
+119,,8,20 horas desaparecido,2018,6,R,55
+120,,22,Episode 1,2013,9,PG,41
+121,,5,Secretos,2017,10,PG-13,51
+122,,5,Materia oscura,2017,10,PG-13,54
+123,,5,Mentiras,2017,10,PG-13,44
+124,,27,The Birthday,2009,9,PG-13,49
+125,,31,Exposed,2015,7,NC-17,44
+126,,31,Psycho,2015,7,NC-17,45
+127,,1,Episode 4,2019,8,R,65
+128,,2,El de los Kips,1994,10,PG,22
+129,,2,El de la leche materna,1994,10,PG,22
+130,,2,El de la medusa,1994,10,PG,22
+131,,2,El de las esposas,1994,10,PG,24
+132,,1,Episode 1,2019,8,R,62
+133,,2,El de despu√©s de que Ross dijera el nombre de Rachel,1994,10,PG,22
+134,,1,Episode 5,2019,8,R,64
+135,,18,El recuerdo de un recuerdo,2010,9,G,21
+136,,2,El de la gata,1994,10,PG,26
+137,,2,El de la carne para cinco y una berenjena,1994,10,PG,26
+138,,2,El de George Stephanopoulos,1994,10,PG,23
+139,,2,El de los trillizos,1994,10,PG,24
+140,,2,El del t√∫nel metaf√≥rico,1994,10,PG,22
+141,,28,Pilot,2007,8,PG-13,40
+142,,2,El de los bailes de sal√≥n,1994,10,PG,24
+143,,2,El de cuando muere Heckles,1994,10,PG,23
+144,,1,Episode 2,2019,8,R,66
+145,,2,El de cuando nadie est√° listo,1994,10,PG,22
+146,,2,El de Frank Jr.,1994,10,PG,26
+147,,2,El de la nueva novia de Ross,1994,10,PG,25
+148,,18,Lleg√≥ de la Noche√≥sfera,2010,9,G,21
+149,,1,Episode 3,2019,8,R,59
+150,,2,El que Phoebe odia la PBS,1994,10,PG,26
+151,,2,El del detergente de lavander√≠a germano-oriental,1994,10,PG,22
+152,,2,El esposo de Phoebe,1994,10,PG,24
+153,,2,En el que todo empieza,1994,10,PG,22
+154,,28,Verano: una especie de maravilla,2007,8,PG-13,42
+155,,2,El del pulgar,1994,10,PG,21
+156,,2,El de los besos,1994,10,PG,24
+157,,28,Los contratiempos de la Fortuna,2007,8,PG-13,45
+158,,2,El de la mermelada,1994,10,PG,24
+159,,2,El de la ecograf√≠a final,1994,10,PG,20
+160,,18,Panico en la fiesta del palacio,2010,9,G,21
+161,,2,El de la fantas√≠a de la Princesa Leia,1994,10,PG,25
+162,,2,El de la nueva novia de Joey,1994,10,PG,26
+163,,19,Los siete magn√≠ficos,2005,8,PG-13,58
+164,,13,Cap√≠tulo 14: Un beso antes de morir,2017,4,PG-13,60
+165,,13,Cap√≠tulo 1: Corrientes traicioneras,2017,4,PG-13,55
+166,,19,Wendigo,2005,8,PG-13,55
+167,,19,En mi tiempo de morir,2005,8,PG-13,50
+168,,13,Cap√≠tulo 36: D√≠a del Trabajo,2017,4,PG-13,62
+169,,9,Misadventure,2016,10,PG-13,60
+170,,9,Wolferton Splash,2016,10,PG-13,62
+171,,9,Olding,2016,10,PG-13,58
+172,,24,Se√±al de humo,2010,10,PG-13,23
+173,,24,A ti: 2.000 a√±os en el futuro,2010,10,PG-13,23
+174,,24,El tit√°n bestia,2010,10,PG-13,23
+175,,3,El maestro del juego,2012,10,PG,23
+176,,3,Juventud con dio,2012,10,PG,23
+177,,3,¬°Josuke Higashikata! Conoce a Angelo,2012,10,PG,23
+178,,3,Jojo vs. la forma de vida definitiva,2012,10,PG,23
+179,,14,Partida x Y x Compa√±eros,2011,8,G,24
+180,,3,Dio: el invasor,2012,10,PG,23
+181,,25,Interludio,2003,9,PG,23
+182,,3,Silver Chariot,2012,10,PG,23
+183,,3,Los guerreros definitivos de tiempos antiguos,2012,10,PG,23
+184,,3,Los Hermanos Nijimura (Parte 2),2012,10,PG,23
+185,,3,¬°Jotaro Kujo! Conoce a Josuke Higashikata,2012,10,PG,23
+186,,3,un hombre pose√≠do por un esp√≠ritu maligno,2012,10,PG,23
+187,,3,Overdrive,2012,10,PG,23
+188,,14,Un x Guardi√°n x Peligroso,2011,8,G,24
+189,,3,Los caballeros oscuros,2012,10,PG,23
+190,,25,Los que acechan bajo tierra,2003,9,PG,23
+191,,3,El jojo de nueva york,2012,10,PG,23
+192,,3,Tower of gray,2012,10,PG,23
+193,,3,¬°¬øqui√©n ser√° el juez?!,2012,10,PG,23
+194,,25,El alquimista de acero,2003,9,PG,23
+195,,3,Una carta del pasado,2012,10,PG,23
+196,,3,Los Hermanos Nijimura (Parte 1),2012,10,PG,23
+197,,14,Respuesta de papa,2011,8,G,24
+198,,3,Los Hermanos Nijimura (Parte 3),2012,10,PG,23
+199,,3,El hombre del pilar,2012,10,PG,23
+200,,3,La maldici√≥n de dio,2012,10,PG,23
+201,,6,Relox,2003,10,G,32
+202,,6,El comienzo,2003,10,G,29
+203,,26,El estado avatar,2005,8,G,24
+204,,6,El arbol furioso,2003,10,G,31
+205,,6,Cirug√≠a,2003,10,G,32
+206,,6,La maquina del tiempo,2003,10,G,31
+207,,6,Vacaciones,2003,10,G,34
+208,,26,El despertar,2005,8,G,24
+209,,26,El ni√±o en el iceberg,2005,8,G,24
+210,,6,Por el sr. manguera,2003,10,G,28
+211,,6,La mona lisa,2003,10,G,32
+212,,4,Viento,2007,10,PG-13,20
+213,,4,La pupila de la serpiente,2007,10,PG-13,20
+214,,20,Las aventuras de Supergirl,2015,6,G,40
+215,,10,Midoriya Izuku: Origen,2015,9,G,24
+216,,4,El nuevo objetivo,2007,10,PG-13,22
+217,,15,Empapada,2017,9,PG-13,62
+218,,4,Un asunto shinobi,2007,10,PG-13,21
+219,,16,Piloto,2004,9,R,43
+220,,30,Rose,2005,9,G,45
+221,,30,Smith y Jones,2005,9,G,45
+222,,17,Gotas de lluvia sobre mi cabeza,2005,9,R,42
+223,,4,La amenaza que se acerca en silencio,2007,10,PG-13,20
+224,,17,La noche de un d√≠a dif√≠cil,2005,9,R,40
+225,,10,Empieza el juego,2015,9,G,24
+226,,15,Los mejores planes,2017,9,PG-13,59
+227,,4,El precio del poder,2007,10,PG-13,20
+228,,16,Sentido,2004,9,R,44
+229,,20,La mujer de acero,2015,6,G,42
+230,,4,La invasi√≥n de Akatsuki,2007,10,PG-13,21
+231,,10,Libreta de h√©roes,2015,9,G,24
+232,,17,Lleg√≥ el momento,2005,9,R,45
+233,,16,Aceptaci√≥n,2004,9,R,42
+234,,4,El viajero,2007,10,PG-13,20
+235,,4,¬°Formaci√≥n: el nuevo equipo Kakashi!,2007,10,PG-13,20
+236,,15,Ant√°rtida,2017,9,PG-13,60
+237,,4,Pesadilla,2007,10,PG-13,21
+238,,4,El regreso a casa,2007,10,PG-13,22
+239,,20,M√°s fuertes juntos,2015,6,G,35
+240,,4,El sucesor de la t√©cnica prohibida,2007,10,PG-13,22
+241,,30,Nueva tierra,2005,9,G,46
+242,,4,El Akatsuki comienza a moverse,2007,10,PG-13,20
+243,,4,Ojo de halc√≥n,2007,10,PG-13,20
+244,,12,El fin y el comienzo,2014,10,G,20
+245,,12,Saludos,2014,10,G,21
+246,,12,¬°Vamos a Tokyo!,2014,10,G,22
+247,,21,Simpsons Roasting on an Open Fire,1989,9,PG-13,20
+248,,21,"Bart Gets an ""F""",1989,9,PG-13,20
+249,,21,Stark Raving Dad,1989,9,PG-13,20
+250,,23,Pilot,2013,8,PG,22
+251,,23,The Rickshank Rickdemption,2013,8,PG,22
+252,,23,A Rickle in Time,2013,8,PG,22

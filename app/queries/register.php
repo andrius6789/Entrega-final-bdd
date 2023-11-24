@@ -33,9 +33,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             exit();
         }
 
-        // Insert the user into the database
-        $insertQuery = "INSERT INTO usuarios (username, nombre, email, fecha_de_nacimiento, password) VALUES (:username, :name, :email, :birthdate, :password)";
+        /// Find the latest id_usuario
+        $latestIdQuery = "SELECT MAX(id_usuario) FROM usuarios";
+        $latestIdResult = $db->query($latestIdQuery);
+        $latestId = $latestIdResult->fetchColumn();
+
+        // Calculate the new id_usuario
+        $newIdUsuario = $latestId + 1;
+
+        // Insert the user into the database with the calculated id_usuario
+        $insertQuery = "INSERT INTO usuarios (id_usuario, username, nombre, email, fecha_nacimiento, contraseña) VALUES (:id_usuario, :username, :name, :email, :birthdate, :password)";
         $result = $db->prepare($insertQuery);
+        $result->bindParam(':id_usuario', $newIdUsuario);
         $result->bindParam(':username', $username);
         $result->bindParam(':name', $name);
         $result->bindParam(':email', $email);

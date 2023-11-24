@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
 
         // Verify the password
-        if (password_verify($password, $user['password'])) {
+        if (password_verify($password, $user['contraseña'])) {
             // Password is correct, start a session
             $_SESSION['username'] = $username;
 
@@ -40,11 +40,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
+
 <body>
     <div class='main'>
         <h1 class='title'>META DATABASES</h1>
 
-        <form action='login.php' method='POST'>
+        <form action='/~grupo75/' method='POST'>
             <label for="username">Username:</label>
             <input type="text" name="username" required>
 

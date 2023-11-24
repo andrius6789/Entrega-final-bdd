@@ -1,69 +1,69 @@
 id_mm,pid,sid,nombre_subgenero
-0,4.0,,Thriller sicol√≥gico
-1,6.0,,Thriller sicol√≥gico
-2,6.0,,Ciencia ficci√≥n apocal√≠ptica
-3,6.0,,Biopunk
-4,6.0,,Romance Planetario
-5,8.0,,Ciencia ficci√≥n apocal√≠ptica
-6,8.0,,Biopunk
-7,8.0,,Romance Planetario
-8,13.0,,Ciencia ficci√≥n apocal√≠ptica
-9,13.0,,Biopunk
-10,13.0,,Romance Planetario
-11,14.0,,Ciencia ficci√≥n apocal√≠ptica
-12,14.0,,Biopunk
-13,14.0,,Romance Planetario
-14,29.0,,Thriller sicol√≥gico
-15,30.0,,Ciencia ficci√≥n apocal√≠ptica
-16,30.0,,Biopunk
-17,30.0,,Romance Planetario
-18,31.0,,Thriller sicol√≥gico
-19,35.0,,Thriller sicol√≥gico
-20,36.0,,Thriller sicol√≥gico
-21,41.0,,Thriller sicol√≥gico
-22,42.0,,Fantas√≠a oscura
-23,43.0,,Thriller sicol√≥gico
-24,45.0,,Fantas√≠a oscura
-25,47.0,,Fantas√≠a oscura
-26,48.0,,Ciencia ficci√≥n apocal√≠ptica
-27,48.0,,Biopunk
-28,48.0,,Romance Planetario
-29,54.0,,Thriller sicol√≥gico
-30,55.0,,Thriller sicol√≥gico
-31,63.0,,Fantas√≠a oscura
-32,66.0,,Thriller sicol√≥gico
-33,72.0,,Fantas√≠a oscura
-34,78.0,,Thriller sicol√≥gico
-35,81.0,,Thriller sicol√≥gico
-36,83.0,,Thriller sicol√≥gico
-37,85.0,,Fantas√≠a oscura
-38,94.0,,Thriller sicol√≥gico
-39,95.0,,Thriller sicol√≥gico
-40,,8.0,Thriller sicol√≥gico
-41,,7.0,Thriller sicol√≥gico
-42,,11.0,Thriller sicol√≥gico
-43,,5.0,Thriller sicol√≥gico
-44,,22.0,Thriller sicol√≥gico
-45,,27.0,Thriller sicol√≥gico
-46,,29.0,Thriller sicol√≥gico
-47,,3.0,Fantas√≠a oscura
-48,,14.0,Fantas√≠a oscura
-49,,25.0,Fantas√≠a oscura
-50,,20.0,Ciencia ficci√≥n apocal√≠ptica
-51,,20.0,Biopunk
-52,,20.0,Romance Planetario
-53,,5.0,Ciencia ficci√≥n apocal√≠ptica
-54,,5.0,Biopunk
-55,,5.0,Romance Planetario
-56,,30.0,Ciencia ficci√≥n apocal√≠ptica
-57,,30.0,Biopunk
-58,,30.0,Romance Planetario
-59,,10.0,Ciencia ficci√≥n apocal√≠ptica
-60,,10.0,Biopunk
-61,,10.0,Romance Planetario
-62,,25.0,Ciencia ficci√≥n apocal√≠ptica
-63,,25.0,Biopunk
-64,,25.0,Romance Planetario
-65,,24.0,Ciencia ficci√≥n apocal√≠ptica
-66,,24.0,Biopunk
-67,,24.0,Romance Planetario
+0,4,,Thriller sicol√≥gico
+1,6,,Thriller sicol√≥gico
+2,6,,Ciencia ficci√≥n apocal√≠ptica
+3,6,,Biopunk
+4,6,,Romance Planetario
+5,8,,Ciencia ficci√≥n apocal√≠ptica
+6,8,,Biopunk
+7,8,,Romance Planetario
+8,13,,Ciencia ficci√≥n apocal√≠ptica
+9,13,,Biopunk
+10,13,,Romance Planetario
+11,14,,Ciencia ficci√≥n apocal√≠ptica
+12,14,,Biopunk
+13,14,,Romance Planetario
+14,29,,Thriller sicol√≥gico
+15,30,,Ciencia ficci√≥n apocal√≠ptica
+16,30,,Biopunk
+17,30,,Romance Planetario
+18,31,,Thriller sicol√≥gico
+19,35,,Thriller sicol√≥gico
+20,36,,Thriller sicol√≥gico
+21,41,,Thriller sicol√≥gico
+22,42,,Fantas√≠a oscura
+23,43,,Thriller sicol√≥gico
+24,45,,Fantas√≠a oscura
+25,47,,Fantas√≠a oscura
+26,48,,Ciencia ficci√≥n apocal√≠ptica
+27,48,,Biopunk
+28,48,,Romance Planetario
+29,54,,Thriller sicol√≥gico
+30,55,,Thriller sicol√≥gico
+31,63,,Fantas√≠a oscura
+32,66,,Thriller sicol√≥gico
+33,72,,Fantas√≠a oscura
+34,78,,Thriller sicol√≥gico
+35,81,,Thriller sicol√≥gico
+36,83,,Thriller sicol√≥gico
+37,85,,Fantas√≠a oscura
+38,94,,Thriller sicol√≥gico
+39,95,,Thriller sicol√≥gico
+40,,8,Thriller sicol√≥gico
+41,,7,Thriller sicol√≥gico
+42,,11,Thriller sicol√≥gico
+43,,5,Thriller sicol√≥gico
+44,,22,Thriller sicol√≥gico
+45,,27,Thriller sicol√≥gico
+46,,29,Thriller sicol√≥gico
+47,,3,Fantas√≠a oscura
+48,,14,Fantas√≠a oscura
+49,,25,Fantas√≠a oscura
+50,,20,Ciencia ficci√≥n apocal√≠ptica
+51,,20,Biopunk
+52,,20,Romance Planetario
+53,,5,Ciencia ficci√≥n apocal√≠ptica
+54,,5,Biopunk
+55,,5,Romance Planetario
+56,,30,Ciencia ficci√≥n apocal√≠ptica
+57,,30,Biopunk
+58,,30,Romance Planetario
+59,,10,Ciencia ficci√≥n apocal√≠ptica
+60,,10,Biopunk
+61,,10,Romance Planetario
+62,,25,Ciencia ficci√≥n apocal√≠ptica
+63,,25,Biopunk
+64,,25,Romance Planetario
+65,,24,Ciencia ficci√≥n apocal√≠ptica
+66,,24,Biopunk
+67,,24,Romance Planetario

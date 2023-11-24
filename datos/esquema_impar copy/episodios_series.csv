@@ -1,454 +1,454 @@
 id_ep_series,serie_id,numero_ep,temporada,nombre_ep,duracion_ep
-0,11.0,97.0,2.0,La primera polaroid,62
-1,11.0,96.0,1.0,Casete 1: lado A,60
-2,11.0,98.0,3.0,Si: soy la chica nueva,56
-3,8.0,89.0,3.0,Carla,58
-4,7.0,86.0,3.0,Hemos vuelto,50
-5,11.0,98.0,3.0,Si: soy la chica nueva,56
-6,5.0,75.0,3.0,Los sobrevivientes,59
-7,7.0,84.0,1.0,Efectuar lo acordado,50
-8,11.0,96.0,1.0,Casete 1: lado A,60
-9,22.0,129.0,1.0,Episode 1,40
-10,5.0,72.0,2.0,Principios y finales,53
-11,27.0,145.0,2.0,The Return,49
-12,7.0,85.0,2.0,Se acabaron las m√°scaras,50
-13,8.0,87.0,1.0,Bienvenidos,60
-14,27.0,144.0,1.0,Pilot,49
-15,22.0,130.0,2.0,Episode 1,42
-16,29.0,150.0,1.0,Estudio en rosa,60
-17,11.0,97.0,2.0,La primera polaroid,62
-18,5.0,74.0,3.0,Deja vu,60
-19,29.0,151.0,2.0,Esc√°ndalo en Belgravia,60
-20,29.0,152.0,3.0,Many Happy Returns,60
-21,8.0,88.0,2.0,20 horas desaparecido,55
-22,22.0,131.0,3.0,Episode 1,41
-23,5.0,70.0,1.0,Secretos,51
-24,5.0,73.0,2.0,Materia oscura,54
-25,5.0,71.0,1.0,Mentiras,44
-26,27.0,146.0,3.0,The Birthday,49
-27,31.0,156.0,1.0,Exposed,44
-28,31.0,157.0,2.0,Psycho,45
-29,1.0,68.0,2.0,Episode 4,65
-30,2.0,30.0,5.0,El de los Kips,22
-31,2.0,12.0,2.0,El de la leche materna,22
-32,2.0,21.0,4.0,El de la medusa,22
-33,2.0,23.0,4.0,El de las esposas,24
-34,1.0,1.0,1.0,Episode 1,62
-35,2.0,26.0,5.0,El de despu√©s de que Ross dijera el nombre de Rachel,22
-36,1.0,5.0,1.0,Episode 5,64
-37,1.0,4.0,1.0,Episode 4,65
-38,18.0,119.0,3.0,El recuerdo de un recuerdo,21
-39,2.0,22.0,4.0,El de la gata,26
-40,2.0,15.0,2.0,El de la carne para cinco y una berenjena,26
-41,2.0,9.0,1.0,El de George Stephanopoulos,23
-42,2.0,28.0,5.0,El de los trillizos,24
-43,2.0,19.0,3.0,El del t√∫nel metaf√≥rico,22
-44,28.0,147.0,1.0,Pilot,40
-45,2.0,24.0,4.0,El de los bailes de sal√≥n,24
-46,2.0,13.0,2.0,El de cuando muere Heckles,23
-47,1.0,2.0,1.0,Episode 2,66
-48,2.0,17.0,3.0,El de cuando nadie est√° listo,22
-49,1.0,65.0,2.0,Episode 1,62
-50,2.0,20.0,3.0,El de Frank Jr.,26
-51,2.0,11.0,2.0,El de la nueva novia de Ross,25
-52,1.0,69.0,2.0,Episode 5,64
-53,18.0,118.0,2.0,Lleg√≥ de la Noche√≥sfera,21
-54,1.0,67.0,2.0,Episode 3,59
-55,2.0,29.0,5.0,El que Phoebe odia la PBS,26
-56,2.0,10.0,1.0,El del detergente de lavander√≠a germano-oriental,22
-57,2.0,14.0,2.0,El esposo de Phoebe,24
-58,2.0,6.0,1.0,En el que todo empieza,22
-59,28.0,148.0,2.0,Verano: una especie de maravilla,42
-60,2.0,8.0,1.0,El del pulgar,21
-61,1.0,66.0,2.0,Episode 2,66
-62,2.0,27.0,5.0,El de los besos,24
-63,28.0,149.0,3.0,Los contratiempos de la Fortuna,45
-64,2.0,18.0,3.0,El de la mermelada,24
-65,2.0,7.0,1.0,El de la ecograf√≠a final,20
-66,1.0,3.0,1.0,Episode 3,59
-67,18.0,117.0,1.0,Panico en la fiesta del palacio,21
-68,2.0,16.0,3.0,El de la fantas√≠a de la Princesa Leia,25
-69,2.0,25.0,4.0,El de la nueva novia de Joey,26
-70,19.0,122.0,3.0,Los siete magn√≠ficos,58
-71,8.0,89.0,3.0,Carla,58
-72,27.0,145.0,2.0,The Return,49
-73,8.0,87.0,1.0,Bienvenidos,60
-74,13.0,103.0,2.0,Cap√≠tulo 14: Un beso antes de morir,60
-75,13.0,102.0,1.0,Cap√≠tulo 1: Corrientes traicioneras,55
-76,19.0,120.0,1.0,Wendigo,55
-77,27.0,144.0,1.0,Pilot,49
-78,19.0,121.0,2.0,En mi tiempo de morir,50
-79,13.0,104.0,3.0,Cap√≠tulo 36: D√≠a del Trabajo,62
-80,11.0,97.0,2.0,La primera polaroid,62
-81,11.0,98.0,3.0,Si: soy la chica nueva,56
-82,8.0,88.0,2.0,20 horas desaparecido,55
-83,11.0,96.0,1.0,Casete 1: lado A,60
-84,27.0,146.0,3.0,The Birthday,49
-85,31.0,157.0,2.0,Psycho,45
-86,19.0,120.0,1.0,Wendigo,55
-87,19.0,122.0,3.0,Los siete magn√≠ficos,58
-88,19.0,121.0,2.0,En mi tiempo de morir,50
-89,31.0,156.0,1.0,Exposed,44
-90,9.0,91.0,2.0,Misadventure,60
-91,22.0,129.0,1.0,Episode 1,40
-92,22.0,131.0,3.0,Episode 1,41
-93,9.0,90.0,1.0,Wolferton Splash,62
-94,9.0,92.0,3.0,Olding,58
-95,22.0,130.0,2.0,Episode 1,42
-96,24.0,137.0,3.0,Se√±al de humo,23
-97,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-98,24.0,136.0,2.0,El tit√°n bestia,23
-99,3.0,37.0,2.0,El maestro del juego,23
-100,3.0,33.0,1.0,Juventud con dio,23
-101,3.0,47.0,4.0,¬°Josuke Higashikata! Conoce a Angelo,23
-102,3.0,39.0,2.0,Jojo vs. la forma de vida definitiva,23
-103,14.0,105.0,1.0,Partida x Y x Compa√±eros,24
-104,3.0,31.0,1.0,Dio: el invasor,23
-105,25.0,140.0,3.0,Interludio,23
-106,3.0,45.0,3.0,Silver Chariot,23
-107,3.0,40.0,2.0,Los guerreros definitivos de tiempos antiguos,23
-108,3.0,49.0,4.0,Los Hermanos Nijimura (Parte 2),23
-109,3.0,46.0,4.0,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
-110,3.0,41.0,3.0,un hombre pose√≠do por un esp√≠ritu maligno,23
-111,3.0,34.0,1.0,Overdrive,23
-112,14.0,106.0,2.0,Un x Guardi√°n x Peligroso,24
-113,3.0,35.0,1.0,Los caballeros oscuros,23
-114,25.0,139.0,2.0,Los que acechan bajo tierra,23
-115,3.0,36.0,2.0,El jojo de nueva york,23
-116,3.0,44.0,3.0,Tower of gray,23
-117,3.0,42.0,3.0,¬°¬øqui√©n ser√° el juez?!,23
-118,25.0,138.0,1.0,El alquimista de acero,23
-119,3.0,32.0,1.0,Una carta del pasado,23
-120,3.0,48.0,4.0,Los Hermanos Nijimura (Parte 1),23
-121,14.0,107.0,3.0,Respuesta de papa,24
-122,3.0,50.0,4.0,Los Hermanos Nijimura (Parte 3),23
-123,3.0,38.0,2.0,El hombre del pilar,23
-124,3.0,43.0,3.0,La maldici√≥n de dio,23
-125,6.0,79.0,2.0,Relox,32
-126,6.0,76.0,1.0,El comienzo,29
-127,26.0,142.0,2.0,El estado avatar,24
-128,18.0,117.0,1.0,Panico en la fiesta del palacio,21
-129,18.0,119.0,3.0,El recuerdo de un recuerdo,21
-130,6.0,77.0,1.0,El arbol furioso,31
-131,6.0,83.0,4.0,Cirug√≠a,32
-132,18.0,118.0,2.0,Lleg√≥ de la Noche√≥sfera,21
-133,6.0,81.0,3.0,La maquina del tiempo,31
-134,6.0,78.0,2.0,Vacaciones,34
-135,26.0,143.0,3.0,El despertar,24
-136,26.0,141.0,1.0,El ni√±o en el iceberg,24
-137,6.0,80.0,3.0,Por el sr. manguera,28
-138,6.0,82.0,4.0,La mona lisa,32
-139,1.0,2.0,1.0,Episode 2,66
-140,5.0,73.0,2.0,Materia oscura,54
-141,5.0,75.0,3.0,Los sobrevivientes,59
-142,28.0,147.0,1.0,Pilot,40
-143,27.0,146.0,3.0,The Birthday,49
-144,4.0,56.0,3.0,Viento,20
-145,1.0,68.0,2.0,Episode 4,65
-146,4.0,61.0,6.0,La pupila de la serpiente,20
-147,19.0,121.0,2.0,En mi tiempo de morir,50
-148,20.0,124.0,2.0,Las aventuras de Supergirl,40
-149,11.0,96.0,1.0,Casete 1: lado A,60
-150,28.0,149.0,3.0,Los contratiempos de la Fortuna,45
-151,10.0,93.0,1.0,Midoriya Izuku: Origen,24
-152,9.0,92.0,3.0,Olding,58
-153,5.0,72.0,2.0,Principios y finales,53
-154,22.0,129.0,1.0,Episode 1,40
-155,4.0,53.0,2.0,El nuevo objetivo,22
-156,15.0,109.0,2.0,Empapada,62
-157,28.0,148.0,2.0,Verano: una especie de maravilla,42
-158,24.0,137.0,3.0,Se√±al de humo,23
-159,19.0,122.0,3.0,Los siete magn√≠ficos,58
-160,4.0,60.0,5.0,Un asunto shinobi,21
-161,16.0,111.0,1.0,Piloto,43
-162,30.0,153.0,1.0,Rose,45
-163,11.0,97.0,2.0,La primera polaroid,62
-164,30.0,155.0,2.0,Smith y Jones,45
-165,22.0,131.0,3.0,Episode 1,41
-166,17.0,115.0,2.0,Gotas de lluvia sobre mi cabeza,42
-167,4.0,57.0,4.0,La amenaza que se acerca en silencio,20
-168,27.0,144.0,1.0,Pilot,49
-169,1.0,5.0,1.0,Episode 5,64
-170,9.0,91.0,2.0,Misadventure,60
-171,17.0,114.0,1.0,La noche de un d√≠a dif√≠cil,40
-172,7.0,86.0,3.0,Hemos vuelto,50
-173,10.0,95.0,3.0,Empieza el juego,24
-174,1.0,65.0,2.0,Episode 1,62
-175,15.0,110.0,3.0,Los mejores planes,59
-176,4.0,59.0,5.0,El precio del poder,20
-177,27.0,145.0,2.0,The Return,49
-178,16.0,113.0,3.0,Sentido,44
-179,20.0,125.0,3.0,La mujer de acero,42
-180,4.0,58.0,4.0,La invasi√≥n de Akatsuki,21
-181,10.0,94.0,2.0,Libreta de h√©roes,24
-182,17.0,116.0,3.0,Lleg√≥ el momento,45
-183,16.0,112.0,2.0,Aceptaci√≥n,42
-184,13.0,102.0,1.0,Cap√≠tulo 1: Corrientes traicioneras,55
-185,8.0,88.0,2.0,20 horas desaparecido,55
-186,5.0,71.0,1.0,Mentiras,44
-187,4.0,63.0,7.0,El viajero,20
-188,4.0,54.0,2.0,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
-189,5.0,70.0,1.0,Secretos,51
-190,15.0,108.0,1.0,Ant√°rtida,60
-191,1.0,66.0,2.0,Episode 2,66
-192,5.0,74.0,3.0,Deja vu,60
-193,11.0,98.0,3.0,Si: soy la chica nueva,56
-194,13.0,103.0,2.0,Cap√≠tulo 14: Un beso antes de morir,60
-195,19.0,120.0,1.0,Wendigo,55
-196,1.0,3.0,1.0,Episode 3,59
-197,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-198,8.0,89.0,3.0,Carla,58
-199,4.0,55.0,3.0,Pesadilla,21
-200,4.0,51.0,1.0,El regreso a casa,22
-201,27.0,145.0,2.0,The Return,49
-202,7.0,85.0,2.0,Se acabaron las m√°scaras,50
-203,13.0,104.0,3.0,Cap√≠tulo 36: D√≠a del Trabajo,62
-204,27.0,146.0,3.0,The Birthday,49
-205,7.0,84.0,1.0,Efectuar lo acordado,50
-206,9.0,90.0,1.0,Wolferton Splash,62
-207,1.0,69.0,2.0,Episode 5,64
-208,20.0,123.0,1.0,M√°s fuertes juntos,35
-209,4.0,64.0,7.0,El sucesor de la t√©cnica prohibida,22
-210,30.0,154.0,2.0,Nueva tierra,46
-211,22.0,130.0,2.0,Episode 1,42
-212,1.0,1.0,1.0,Episode 1,62
-213,4.0,52.0,1.0,El Akatsuki comienza a moverse,20
-214,8.0,87.0,1.0,Bienvenidos,60
-215,27.0,144.0,1.0,Pilot,49
-216,4.0,62.0,6.0,Ojo de halc√≥n,20
-217,24.0,136.0,2.0,El tit√°n bestia,23
-218,1.0,67.0,2.0,Episode 3,59
-219,1.0,4.0,1.0,Episode 4,65
-220,12.0,99.0,1.0,El fin y el comienzo,20
-221,12.0,101.0,3.0,Saludos,21
-222,12.0,100.0,2.0,¬°Vamos a Tokyo!,22
-223,13.0,103.0,2.0,Cap√≠tulo 14: Un beso antes de morir,60
-224,22.0,130.0,2.0,Episode 1,42
-225,29.0,152.0,3.0,Many Happy Returns,60
-226,13.0,104.0,3.0,Cap√≠tulo 36: D√≠a del Trabajo,62
-227,13.0,102.0,1.0,Cap√≠tulo 1: Corrientes traicioneras,55
-228,7.0,86.0,3.0,Hemos vuelto,50
-229,22.0,129.0,1.0,Episode 1,40
-230,7.0,84.0,1.0,Efectuar lo acordado,50
-231,29.0,150.0,1.0,Estudio en rosa,60
-232,29.0,151.0,2.0,Esc√°ndalo en Belgravia,60
-233,22.0,131.0,3.0,Episode 1,41
-234,7.0,85.0,2.0,Se acabaron las m√°scaras,50
-235,2.0,8.0,1.0,El del pulgar,21
-236,2.0,12.0,2.0,El de la leche materna,22
-237,19.0,122.0,3.0,Los siete magn√≠ficos,58
-238,20.0,124.0,2.0,Las aventuras de Supergirl,40
-239,17.0,114.0,1.0,La noche de un d√≠a dif√≠cil,40
-240,12.0,101.0,3.0,Saludos,21
-241,6.0,77.0,1.0,El arbol furioso,31
-242,2.0,9.0,1.0,El de George Stephanopoulos,23
-243,6.0,76.0,1.0,El comienzo,29
-244,4.0,53.0,2.0,El nuevo objetivo,22
-245,1.0,5.0,1.0,Episode 5,64
-246,2.0,20.0,3.0,El de Frank Jr.,26
-247,17.0,116.0,3.0,Lleg√≥ el momento,45
-248,1.0,66.0,2.0,Episode 2,66
-249,17.0,115.0,2.0,Gotas de lluvia sobre mi cabeza,42
-250,1.0,65.0,2.0,Episode 1,62
-251,21.0,126.0,1.0,Simpsons Roasting on an Open Fire,20
-252,15.0,109.0,2.0,Empapada,62
-253,16.0,111.0,1.0,Piloto,43
-254,26.0,143.0,3.0,El despertar,24
-255,4.0,58.0,4.0,La invasi√≥n de Akatsuki,21
-256,2.0,18.0,3.0,El de la mermelada,24
-257,6.0,79.0,2.0,Relox,32
-258,2.0,21.0,4.0,El de la medusa,22
-259,4.0,55.0,3.0,Pesadilla,21
-260,26.0,142.0,2.0,El estado avatar,24
-261,4.0,56.0,3.0,Viento,20
-262,2.0,7.0,1.0,El de la ecograf√≠a final,20
-263,24.0,136.0,2.0,El tit√°n bestia,23
-264,20.0,125.0,3.0,La mujer de acero,42
-265,2.0,14.0,2.0,El esposo de Phoebe,24
-266,2.0,6.0,1.0,En el que todo empieza,22
-267,14.0,106.0,2.0,Un x Guardi√°n x Peligroso,24
-268,2.0,26.0,5.0,El de despu√©s de que Ross dijera el nombre de Rachel,22
-269,4.0,60.0,5.0,Un asunto shinobi,21
-270,1.0,3.0,1.0,Episode 3,59
-271,1.0,67.0,2.0,Episode 3,59
-272,2.0,23.0,4.0,El de las esposas,24
-273,20.0,123.0,1.0,M√°s fuertes juntos,35
-274,2.0,27.0,5.0,El de los besos,24
-275,16.0,112.0,2.0,Aceptaci√≥n,42
-276,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-277,4.0,54.0,2.0,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
-278,12.0,99.0,1.0,El fin y el comienzo,20
-279,4.0,61.0,6.0,La pupila de la serpiente,20
-280,2.0,29.0,5.0,El que Phoebe odia la PBS,26
-281,12.0,100.0,2.0,¬°Vamos a Tokyo!,22
-282,6.0,83.0,4.0,Cirug√≠a,32
-283,2.0,15.0,2.0,El de la carne para cinco y una berenjena,26
-284,24.0,137.0,3.0,Se√±al de humo,23
-285,1.0,1.0,1.0,Episode 1,62
-286,2.0,24.0,4.0,El de los bailes de sal√≥n,24
-287,2.0,13.0,2.0,El de cuando muere Heckles,23
-288,4.0,59.0,5.0,El precio del poder,20
-289,6.0,82.0,4.0,La mona lisa,32
-290,4.0,62.0,6.0,Ojo de halc√≥n,20
-291,2.0,22.0,4.0,El de la gata,26
-292,26.0,141.0,1.0,El ni√±o en el iceberg,24
-293,19.0,120.0,1.0,Wendigo,55
-294,2.0,30.0,5.0,El de los Kips,22
-295,2.0,11.0,2.0,El de la nueva novia de Ross,25
-296,14.0,107.0,3.0,Respuesta de papa,24
-297,21.0,127.0,2.0,"Bart Gets an ""F""",20
-298,2.0,16.0,3.0,El de la fantas√≠a de la Princesa Leia,25
-299,4.0,64.0,7.0,El sucesor de la t√©cnica prohibida,22
-300,15.0,108.0,1.0,Ant√°rtida,60
-301,6.0,80.0,3.0,Por el sr. manguera,28
-302,1.0,69.0,2.0,Episode 5,64
-303,2.0,28.0,5.0,El de los trillizos,24
-304,14.0,105.0,1.0,Partida x Y x Compa√±eros,24
-305,4.0,51.0,1.0,El regreso a casa,22
-306,16.0,113.0,3.0,Sentido,44
-307,19.0,121.0,2.0,En mi tiempo de morir,50
-308,2.0,25.0,4.0,El de la nueva novia de Joey,26
-309,2.0,19.0,3.0,El del t√∫nel metaf√≥rico,22
-310,21.0,128.0,3.0,Stark Raving Dad,20
-311,6.0,81.0,3.0,La maquina del tiempo,31
-312,1.0,68.0,2.0,Episode 4,65
-313,4.0,63.0,7.0,El viajero,20
-314,4.0,57.0,4.0,La amenaza que se acerca en silencio,20
-315,1.0,4.0,1.0,Episode 4,65
-316,6.0,78.0,2.0,Vacaciones,34
-317,2.0,17.0,3.0,El de cuando nadie est√° listo,22
-318,15.0,110.0,3.0,Los mejores planes,59
-319,4.0,52.0,1.0,El Akatsuki comienza a moverse,20
-320,1.0,2.0,1.0,Episode 2,66
-321,2.0,10.0,1.0,El del detergente de lavander√≠a germano-oriental,22
-322,24.0,136.0,2.0,El tit√°n bestia,23
-323,24.0,137.0,3.0,Se√±al de humo,23
-324,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-325,20.0,124.0,2.0,Las aventuras de Supergirl,40
-326,5.0,73.0,2.0,Materia oscura,54
-327,30.0,155.0,2.0,Smith y Jones,45
-328,20.0,125.0,3.0,La mujer de acero,42
-329,5.0,71.0,1.0,Mentiras,44
-330,10.0,94.0,2.0,Libreta de h√©roes,24
-331,5.0,72.0,2.0,Principios y finales,53
-332,25.0,140.0,3.0,Interludio,23
-333,24.0,136.0,2.0,El tit√°n bestia,23
-334,5.0,75.0,3.0,Los sobrevivientes,59
-335,25.0,139.0,2.0,Los que acechan bajo tierra,23
-336,10.0,95.0,3.0,Empieza el juego,24
-337,5.0,70.0,1.0,Secretos,51
-338,24.0,137.0,3.0,Se√±al de humo,23
-339,10.0,93.0,1.0,Midoriya Izuku: Origen,24
-340,20.0,123.0,1.0,M√°s fuertes juntos,35
-341,25.0,138.0,1.0,El alquimista de acero,23
-342,30.0,154.0,2.0,Nueva tierra,46
-343,30.0,153.0,1.0,Rose,45
-344,5.0,74.0,3.0,Deja vu,60
-345,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-346,4.0,63.0,7.0,El viajero,20
-347,25.0,139.0,2.0,Los que acechan bajo tierra,23
-348,3.0,48.0,4.0,Los Hermanos Nijimura (Parte 1),23
-349,3.0,37.0,2.0,El maestro del juego,23
-350,26.0,141.0,1.0,El ni√±o en el iceberg,24
-351,30.0,154.0,2.0,Nueva tierra,46
-352,3.0,32.0,1.0,Una carta del pasado,23
-353,20.0,123.0,1.0,M√°s fuertes juntos,35
-354,4.0,64.0,7.0,El sucesor de la t√©cnica prohibida,22
-355,19.0,121.0,2.0,En mi tiempo de morir,50
-356,3.0,39.0,2.0,Jojo vs. la forma de vida definitiva,23
-357,4.0,52.0,1.0,El Akatsuki comienza a moverse,20
-358,3.0,50.0,4.0,Los Hermanos Nijimura (Parte 3),23
-359,29.0,152.0,3.0,Many Happy Returns,60
-360,3.0,34.0,1.0,Overdrive,23
-361,26.0,142.0,2.0,El estado avatar,24
-362,4.0,56.0,3.0,Viento,20
-363,19.0,120.0,1.0,Wendigo,55
-364,4.0,57.0,4.0,La amenaza que se acerca en silencio,20
-365,3.0,35.0,1.0,Los caballeros oscuros,23
-366,30.0,155.0,2.0,Smith y Jones,45
-367,3.0,33.0,1.0,Juventud con dio,23
-368,18.0,118.0,2.0,Lleg√≥ de la Noche√≥sfera,21
-369,4.0,54.0,2.0,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
-370,4.0,59.0,5.0,El precio del poder,20
-371,20.0,125.0,3.0,La mujer de acero,42
-372,3.0,44.0,3.0,Tower of gray,23
-373,4.0,60.0,5.0,Un asunto shinobi,21
-374,19.0,122.0,3.0,Los siete magn√≠ficos,58
-375,3.0,49.0,4.0,Los Hermanos Nijimura (Parte 2),23
-376,3.0,42.0,3.0,¬°¬øqui√©n ser√° el juez?!,23
-377,25.0,140.0,3.0,Interludio,23
-378,4.0,62.0,6.0,Ojo de halc√≥n,20
-379,3.0,41.0,3.0,un hombre pose√≠do por un esp√≠ritu maligno,23
-380,3.0,46.0,4.0,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
-381,18.0,117.0,1.0,Panico en la fiesta del palacio,21
-382,3.0,47.0,4.0,¬°Josuke Higashikata! Conoce a Angelo,23
-383,25.0,138.0,1.0,El alquimista de acero,23
-384,29.0,150.0,1.0,Estudio en rosa,60
-385,3.0,36.0,2.0,El jojo de nueva york,23
-386,4.0,53.0,2.0,El nuevo objetivo,22
-387,3.0,45.0,3.0,Silver Chariot,23
-388,4.0,55.0,3.0,Pesadilla,21
-389,18.0,119.0,3.0,El recuerdo de un recuerdo,21
-390,4.0,51.0,1.0,El regreso a casa,22
-391,30.0,153.0,1.0,Rose,45
-392,4.0,61.0,6.0,La pupila de la serpiente,20
-393,3.0,38.0,2.0,El hombre del pilar,23
-394,3.0,31.0,1.0,Dio: el invasor,23
-395,3.0,40.0,2.0,Los guerreros definitivos de tiempos antiguos,23
-396,4.0,58.0,4.0,La invasi√≥n de Akatsuki,21
-397,3.0,43.0,3.0,La maldici√≥n de dio,23
-398,26.0,143.0,3.0,El despertar,24
-399,29.0,151.0,2.0,Esc√°ndalo en Belgravia,60
-400,20.0,124.0,2.0,Las aventuras de Supergirl,40
-401,4.0,55.0,3.0,Pesadilla,21
-402,3.0,38.0,2.0,El hombre del pilar,23
-403,4.0,61.0,6.0,La pupila de la serpiente,20
-404,4.0,59.0,5.0,El precio del poder,20
-405,14.0,105.0,1.0,Partida x Y x Compa√±eros,24
-406,10.0,95.0,3.0,Empieza el juego,24
-407,4.0,57.0,4.0,La amenaza que se acerca en silencio,20
-408,4.0,58.0,4.0,La invasi√≥n de Akatsuki,21
-409,4.0,60.0,5.0,Un asunto shinobi,21
-410,3.0,42.0,3.0,¬°¬øqui√©n ser√° el juez?!,23
-411,3.0,39.0,2.0,Jojo vs. la forma de vida definitiva,23
-412,3.0,43.0,3.0,La maldici√≥n de dio,23
-413,3.0,45.0,3.0,Silver Chariot,23
-414,19.0,120.0,1.0,Wendigo,55
-415,20.0,123.0,1.0,M√°s fuertes juntos,35
-416,10.0,94.0,2.0,Libreta de h√©roes,24
-417,14.0,106.0,2.0,Un x Guardi√°n x Peligroso,24
-418,3.0,36.0,2.0,El jojo de nueva york,23
-419,3.0,46.0,4.0,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
-420,3.0,50.0,4.0,Los Hermanos Nijimura (Parte 3),23
-421,19.0,122.0,3.0,Los siete magn√≠ficos,58
-422,4.0,54.0,2.0,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
-423,3.0,41.0,3.0,un hombre pose√≠do por un esp√≠ritu maligno,23
-424,4.0,62.0,6.0,Ojo de halc√≥n,20
-425,4.0,64.0,7.0,El sucesor de la t√©cnica prohibida,22
-426,3.0,34.0,1.0,Overdrive,23
-427,24.0,136.0,2.0,El tit√°n bestia,23
-428,3.0,33.0,1.0,Juventud con dio,23
-429,19.0,121.0,2.0,En mi tiempo de morir,50
-430,3.0,48.0,4.0,Los Hermanos Nijimura (Parte 1),23
-431,3.0,44.0,3.0,Tower of gray,23
-432,3.0,47.0,4.0,¬°Josuke Higashikata! Conoce a Angelo,23
-433,4.0,51.0,1.0,El regreso a casa,22
-434,3.0,32.0,1.0,Una carta del pasado,23
-435,3.0,37.0,2.0,El maestro del juego,23
-436,24.0,137.0,3.0,Se√±al de humo,23
-437,24.0,135.0,1.0,A ti: 2.000 a√±os en el futuro,23
-438,20.0,125.0,3.0,La mujer de acero,42
-439,4.0,53.0,2.0,El nuevo objetivo,22
-440,3.0,35.0,1.0,Los caballeros oscuros,23
-441,14.0,107.0,3.0,Respuesta de papa,24
-442,4.0,63.0,7.0,El viajero,20
-443,3.0,49.0,4.0,Los Hermanos Nijimura (Parte 2),23
-444,3.0,40.0,2.0,Los guerreros definitivos de tiempos antiguos,23
-445,20.0,124.0,2.0,Las aventuras de Supergirl,40
-446,10.0,93.0,1.0,Midoriya Izuku: Origen,24
-447,4.0,52.0,1.0,El Akatsuki comienza a moverse,20
-448,3.0,31.0,1.0,Dio: el invasor,23
-449,4.0,56.0,3.0,Viento,20
-450,23.0,132.0,1.0,Pilot,22
-451,23.0,134.0,3.0,The Rickshank Rickdemption,22
-452,23.0,133.0,2.0,A Rickle in Time,22
+0,11,97,2,La primera polaroid,62
+1,11,96,1,Casete 1: lado A,60
+2,11,98,3,Si: soy la chica nueva,56
+3,8,89,3,Carla,58
+4,7,86,3,Hemos vuelto,50
+5,11,98,3,Si: soy la chica nueva,56
+6,5,75,3,Los sobrevivientes,59
+7,7,84,1,Efectuar lo acordado,50
+8,11,96,1,Casete 1: lado A,60
+9,22,129,1,Episode 1,40
+10,5,72,2,Principios y finales,53
+11,27,145,2,The Return,49
+12,7,85,2,Se acabaron las m√°scaras,50
+13,8,87,1,Bienvenidos,60
+14,27,144,1,Pilot,49
+15,22,130,2,Episode 1,42
+16,29,150,1,Estudio en rosa,60
+17,11,97,2,La primera polaroid,62
+18,5,74,3,Deja vu,60
+19,29,151,2,Esc√°ndalo en Belgravia,60
+20,29,152,3,Many Happy Returns,60
+21,8,88,2,20 horas desaparecido,55
+22,22,131,3,Episode 1,41
+23,5,70,1,Secretos,51
+24,5,73,2,Materia oscura,54
+25,5,71,1,Mentiras,44
+26,27,146,3,The Birthday,49
+27,31,156,1,Exposed,44
+28,31,157,2,Psycho,45
+29,1,68,2,Episode 4,65
+30,2,30,5,El de los Kips,22
+31,2,12,2,El de la leche materna,22
+32,2,21,4,El de la medusa,22
+33,2,23,4,El de las esposas,24
+34,1,1,1,Episode 1,62
+35,2,26,5,El de despu√©s de que Ross dijera el nombre de Rachel,22
+36,1,5,1,Episode 5,64
+37,1,4,1,Episode 4,65
+38,18,119,3,El recuerdo de un recuerdo,21
+39,2,22,4,El de la gata,26
+40,2,15,2,El de la carne para cinco y una berenjena,26
+41,2,9,1,El de George Stephanopoulos,23
+42,2,28,5,El de los trillizos,24
+43,2,19,3,El del t√∫nel metaf√≥rico,22
+44,28,147,1,Pilot,40
+45,2,24,4,El de los bailes de sal√≥n,24
+46,2,13,2,El de cuando muere Heckles,23
+47,1,2,1,Episode 2,66
+48,2,17,3,El de cuando nadie est√° listo,22
+49,1,65,2,Episode 1,62
+50,2,20,3,El de Frank Jr.,26
+51,2,11,2,El de la nueva novia de Ross,25
+52,1,69,2,Episode 5,64
+53,18,118,2,Lleg√≥ de la Noche√≥sfera,21
+54,1,67,2,Episode 3,59
+55,2,29,5,El que Phoebe odia la PBS,26
+56,2,10,1,El del detergente de lavander√≠a germano-oriental,22
+57,2,14,2,El esposo de Phoebe,24
+58,2,6,1,En el que todo empieza,22
+59,28,148,2,Verano: una especie de maravilla,42
+60,2,8,1,El del pulgar,21
+61,1,66,2,Episode 2,66
+62,2,27,5,El de los besos,24
+63,28,149,3,Los contratiempos de la Fortuna,45
+64,2,18,3,El de la mermelada,24
+65,2,7,1,El de la ecograf√≠a final,20
+66,1,3,1,Episode 3,59
+67,18,117,1,Panico en la fiesta del palacio,21
+68,2,16,3,El de la fantas√≠a de la Princesa Leia,25
+69,2,25,4,El de la nueva novia de Joey,26
+70,19,122,3,Los siete magn√≠ficos,58
+71,8,89,3,Carla,58
+72,27,145,2,The Return,49
+73,8,87,1,Bienvenidos,60
+74,13,103,2,Cap√≠tulo 14: Un beso antes de morir,60
+75,13,102,1,Cap√≠tulo 1: Corrientes traicioneras,55
+76,19,120,1,Wendigo,55
+77,27,144,1,Pilot,49
+78,19,121,2,En mi tiempo de morir,50
+79,13,104,3,Cap√≠tulo 36: D√≠a del Trabajo,62
+80,11,97,2,La primera polaroid,62
+81,11,98,3,Si: soy la chica nueva,56
+82,8,88,2,20 horas desaparecido,55
+83,11,96,1,Casete 1: lado A,60
+84,27,146,3,The Birthday,49
+85,31,157,2,Psycho,45
+86,19,120,1,Wendigo,55
+87,19,122,3,Los siete magn√≠ficos,58
+88,19,121,2,En mi tiempo de morir,50
+89,31,156,1,Exposed,44
+90,9,91,2,Misadventure,60
+91,22,129,1,Episode 1,40
+92,22,131,3,Episode 1,41
+93,9,90,1,Wolferton Splash,62
+94,9,92,3,Olding,58
+95,22,130,2,Episode 1,42
+96,24,137,3,Se√±al de humo,23
+97,24,135,1,A ti: 2.000 a√±os en el futuro,23
+98,24,136,2,El tit√°n bestia,23
+99,3,37,2,El maestro del juego,23
+100,3,33,1,Juventud con dio,23
+101,3,47,4,¬°Josuke Higashikata! Conoce a Angelo,23
+102,3,39,2,Jojo vs. la forma de vida definitiva,23
+103,14,105,1,Partida x Y x Compa√±eros,24
+104,3,31,1,Dio: el invasor,23
+105,25,140,3,Interludio,23
+106,3,45,3,Silver Chariot,23
+107,3,40,2,Los guerreros definitivos de tiempos antiguos,23
+108,3,49,4,Los Hermanos Nijimura (Parte 2),23
+109,3,46,4,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
+110,3,41,3,un hombre pose√≠do por un esp√≠ritu maligno,23
+111,3,34,1,Overdrive,23
+112,14,106,2,Un x Guardi√°n x Peligroso,24
+113,3,35,1,Los caballeros oscuros,23
+114,25,139,2,Los que acechan bajo tierra,23
+115,3,36,2,El jojo de nueva york,23
+116,3,44,3,Tower of gray,23
+117,3,42,3,¬°¬øqui√©n ser√° el juez?!,23
+118,25,138,1,El alquimista de acero,23
+119,3,32,1,Una carta del pasado,23
+120,3,48,4,Los Hermanos Nijimura (Parte 1),23
+121,14,107,3,Respuesta de papa,24
+122,3,50,4,Los Hermanos Nijimura (Parte 3),23
+123,3,38,2,El hombre del pilar,23
+124,3,43,3,La maldici√≥n de dio,23
+125,6,79,2,Relox,32
+126,6,76,1,El comienzo,29
+127,26,142,2,El estado avatar,24
+128,18,117,1,Panico en la fiesta del palacio,21
+129,18,119,3,El recuerdo de un recuerdo,21
+130,6,77,1,El arbol furioso,31
+131,6,83,4,Cirug√≠a,32
+132,18,118,2,Lleg√≥ de la Noche√≥sfera,21
+133,6,81,3,La maquina del tiempo,31
+134,6,78,2,Vacaciones,34
+135,26,143,3,El despertar,24
+136,26,141,1,El ni√±o en el iceberg,24
+137,6,80,3,Por el sr. manguera,28
+138,6,82,4,La mona lisa,32
+139,1,2,1,Episode 2,66
+140,5,73,2,Materia oscura,54
+141,5,75,3,Los sobrevivientes,59
+142,28,147,1,Pilot,40
+143,27,146,3,The Birthday,49
+144,4,56,3,Viento,20
+145,1,68,2,Episode 4,65
+146,4,61,6,La pupila de la serpiente,20
+147,19,121,2,En mi tiempo de morir,50
+148,20,124,2,Las aventuras de Supergirl,40
+149,11,96,1,Casete 1: lado A,60
+150,28,149,3,Los contratiempos de la Fortuna,45
+151,10,93,1,Midoriya Izuku: Origen,24
+152,9,92,3,Olding,58
+153,5,72,2,Principios y finales,53
+154,22,129,1,Episode 1,40
+155,4,53,2,El nuevo objetivo,22
+156,15,109,2,Empapada,62
+157,28,148,2,Verano: una especie de maravilla,42
+158,24,137,3,Se√±al de humo,23
+159,19,122,3,Los siete magn√≠ficos,58
+160,4,60,5,Un asunto shinobi,21
+161,16,111,1,Piloto,43
+162,30,153,1,Rose,45
+163,11,97,2,La primera polaroid,62
+164,30,155,2,Smith y Jones,45
+165,22,131,3,Episode 1,41
+166,17,115,2,Gotas de lluvia sobre mi cabeza,42
+167,4,57,4,La amenaza que se acerca en silencio,20
+168,27,144,1,Pilot,49
+169,1,5,1,Episode 5,64
+170,9,91,2,Misadventure,60
+171,17,114,1,La noche de un d√≠a dif√≠cil,40
+172,7,86,3,Hemos vuelto,50
+173,10,95,3,Empieza el juego,24
+174,1,65,2,Episode 1,62
+175,15,110,3,Los mejores planes,59
+176,4,59,5,El precio del poder,20
+177,27,145,2,The Return,49
+178,16,113,3,Sentido,44
+179,20,125,3,La mujer de acero,42
+180,4,58,4,La invasi√≥n de Akatsuki,21
+181,10,94,2,Libreta de h√©roes,24
+182,17,116,3,Lleg√≥ el momento,45
+183,16,112,2,Aceptaci√≥n,42
+184,13,102,1,Cap√≠tulo 1: Corrientes traicioneras,55
+185,8,88,2,20 horas desaparecido,55
+186,5,71,1,Mentiras,44
+187,4,63,7,El viajero,20
+188,4,54,2,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
+189,5,70,1,Secretos,51
+190,15,108,1,Ant√°rtida,60
+191,1,66,2,Episode 2,66
+192,5,74,3,Deja vu,60
+193,11,98,3,Si: soy la chica nueva,56
+194,13,103,2,Cap√≠tulo 14: Un beso antes de morir,60
+195,19,120,1,Wendigo,55
+196,1,3,1,Episode 3,59
+197,24,135,1,A ti: 2.000 a√±os en el futuro,23
+198,8,89,3,Carla,58
+199,4,55,3,Pesadilla,21
+200,4,51,1,El regreso a casa,22
+201,27,145,2,The Return,49
+202,7,85,2,Se acabaron las m√°scaras,50
+203,13,104,3,Cap√≠tulo 36: D√≠a del Trabajo,62
+204,27,146,3,The Birthday,49
+205,7,84,1,Efectuar lo acordado,50
+206,9,90,1,Wolferton Splash,62
+207,1,69,2,Episode 5,64
+208,20,123,1,M√°s fuertes juntos,35
+209,4,64,7,El sucesor de la t√©cnica prohibida,22
+210,30,154,2,Nueva tierra,46
+211,22,130,2,Episode 1,42
+212,1,1,1,Episode 1,62
+213,4,52,1,El Akatsuki comienza a moverse,20
+214,8,87,1,Bienvenidos,60
+215,27,144,1,Pilot,49
+216,4,62,6,Ojo de halc√≥n,20
+217,24,136,2,El tit√°n bestia,23
+218,1,67,2,Episode 3,59
+219,1,4,1,Episode 4,65
+220,12,99,1,El fin y el comienzo,20
+221,12,101,3,Saludos,21
+222,12,100,2,¬°Vamos a Tokyo!,22
+223,13,103,2,Cap√≠tulo 14: Un beso antes de morir,60
+224,22,130,2,Episode 1,42
+225,29,152,3,Many Happy Returns,60
+226,13,104,3,Cap√≠tulo 36: D√≠a del Trabajo,62
+227,13,102,1,Cap√≠tulo 1: Corrientes traicioneras,55
+228,7,86,3,Hemos vuelto,50
+229,22,129,1,Episode 1,40
+230,7,84,1,Efectuar lo acordado,50
+231,29,150,1,Estudio en rosa,60
+232,29,151,2,Esc√°ndalo en Belgravia,60
+233,22,131,3,Episode 1,41
+234,7,85,2,Se acabaron las m√°scaras,50
+235,2,8,1,El del pulgar,21
+236,2,12,2,El de la leche materna,22
+237,19,122,3,Los siete magn√≠ficos,58
+238,20,124,2,Las aventuras de Supergirl,40
+239,17,114,1,La noche de un d√≠a dif√≠cil,40
+240,12,101,3,Saludos,21
+241,6,77,1,El arbol furioso,31
+242,2,9,1,El de George Stephanopoulos,23
+243,6,76,1,El comienzo,29
+244,4,53,2,El nuevo objetivo,22
+245,1,5,1,Episode 5,64
+246,2,20,3,El de Frank Jr.,26
+247,17,116,3,Lleg√≥ el momento,45
+248,1,66,2,Episode 2,66
+249,17,115,2,Gotas de lluvia sobre mi cabeza,42
+250,1,65,2,Episode 1,62
+251,21,126,1,Simpsons Roasting on an Open Fire,20
+252,15,109,2,Empapada,62
+253,16,111,1,Piloto,43
+254,26,143,3,El despertar,24
+255,4,58,4,La invasi√≥n de Akatsuki,21
+256,2,18,3,El de la mermelada,24
+257,6,79,2,Relox,32
+258,2,21,4,El de la medusa,22
+259,4,55,3,Pesadilla,21
+260,26,142,2,El estado avatar,24
+261,4,56,3,Viento,20
+262,2,7,1,El de la ecograf√≠a final,20
+263,24,136,2,El tit√°n bestia,23
+264,20,125,3,La mujer de acero,42
+265,2,14,2,El esposo de Phoebe,24
+266,2,6,1,En el que todo empieza,22
+267,14,106,2,Un x Guardi√°n x Peligroso,24
+268,2,26,5,El de despu√©s de que Ross dijera el nombre de Rachel,22
+269,4,60,5,Un asunto shinobi,21
+270,1,3,1,Episode 3,59
+271,1,67,2,Episode 3,59
+272,2,23,4,El de las esposas,24
+273,20,123,1,M√°s fuertes juntos,35
+274,2,27,5,El de los besos,24
+275,16,112,2,Aceptaci√≥n,42
+276,24,135,1,A ti: 2.000 a√±os en el futuro,23
+277,4,54,2,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
+278,12,99,1,El fin y el comienzo,20
+279,4,61,6,La pupila de la serpiente,20
+280,2,29,5,El que Phoebe odia la PBS,26
+281,12,100,2,¬°Vamos a Tokyo!,22
+282,6,83,4,Cirug√≠a,32
+283,2,15,2,El de la carne para cinco y una berenjena,26
+284,24,137,3,Se√±al de humo,23
+285,1,1,1,Episode 1,62
+286,2,24,4,El de los bailes de sal√≥n,24
+287,2,13,2,El de cuando muere Heckles,23
+288,4,59,5,El precio del poder,20
+289,6,82,4,La mona lisa,32
+290,4,62,6,Ojo de halc√≥n,20
+291,2,22,4,El de la gata,26
+292,26,141,1,El ni√±o en el iceberg,24
+293,19,120,1,Wendigo,55
+294,2,30,5,El de los Kips,22
+295,2,11,2,El de la nueva novia de Ross,25
+296,14,107,3,Respuesta de papa,24
+297,21,127,2,"Bart Gets an ""F""",20
+298,2,16,3,El de la fantas√≠a de la Princesa Leia,25
+299,4,64,7,El sucesor de la t√©cnica prohibida,22
+300,15,108,1,Ant√°rtida,60
+301,6,80,3,Por el sr. manguera,28
+302,1,69,2,Episode 5,64
+303,2,28,5,El de los trillizos,24
+304,14,105,1,Partida x Y x Compa√±eros,24
+305,4,51,1,El regreso a casa,22
+306,16,113,3,Sentido,44
+307,19,121,2,En mi tiempo de morir,50
+308,2,25,4,El de la nueva novia de Joey,26
+309,2,19,3,El del t√∫nel metaf√≥rico,22
+310,21,128,3,Stark Raving Dad,20
+311,6,81,3,La maquina del tiempo,31
+312,1,68,2,Episode 4,65
+313,4,63,7,El viajero,20
+314,4,57,4,La amenaza que se acerca en silencio,20
+315,1,4,1,Episode 4,65
+316,6,78,2,Vacaciones,34
+317,2,17,3,El de cuando nadie est√° listo,22
+318,15,110,3,Los mejores planes,59
+319,4,52,1,El Akatsuki comienza a moverse,20
+320,1,2,1,Episode 2,66
+321,2,10,1,El del detergente de lavander√≠a germano-oriental,22
+322,24,136,2,El tit√°n bestia,23
+323,24,137,3,Se√±al de humo,23
+324,24,135,1,A ti: 2.000 a√±os en el futuro,23
+325,20,124,2,Las aventuras de Supergirl,40
+326,5,73,2,Materia oscura,54
+327,30,155,2,Smith y Jones,45
+328,20,125,3,La mujer de acero,42
+329,5,71,1,Mentiras,44
+330,10,94,2,Libreta de h√©roes,24
+331,5,72,2,Principios y finales,53
+332,25,140,3,Interludio,23
+333,24,136,2,El tit√°n bestia,23
+334,5,75,3,Los sobrevivientes,59
+335,25,139,2,Los que acechan bajo tierra,23
+336,10,95,3,Empieza el juego,24
+337,5,70,1,Secretos,51
+338,24,137,3,Se√±al de humo,23
+339,10,93,1,Midoriya Izuku: Origen,24
+340,20,123,1,M√°s fuertes juntos,35
+341,25,138,1,El alquimista de acero,23
+342,30,154,2,Nueva tierra,46
+343,30,153,1,Rose,45
+344,5,74,3,Deja vu,60
+345,24,135,1,A ti: 2.000 a√±os en el futuro,23
+346,4,63,7,El viajero,20
+347,25,139,2,Los que acechan bajo tierra,23
+348,3,48,4,Los Hermanos Nijimura (Parte 1),23
+349,3,37,2,El maestro del juego,23
+350,26,141,1,El ni√±o en el iceberg,24
+351,30,154,2,Nueva tierra,46
+352,3,32,1,Una carta del pasado,23
+353,20,123,1,M√°s fuertes juntos,35
+354,4,64,7,El sucesor de la t√©cnica prohibida,22
+355,19,121,2,En mi tiempo de morir,50
+356,3,39,2,Jojo vs. la forma de vida definitiva,23
+357,4,52,1,El Akatsuki comienza a moverse,20
+358,3,50,4,Los Hermanos Nijimura (Parte 3),23
+359,29,152,3,Many Happy Returns,60
+360,3,34,1,Overdrive,23
+361,26,142,2,El estado avatar,24
+362,4,56,3,Viento,20
+363,19,120,1,Wendigo,55
+364,4,57,4,La amenaza que se acerca en silencio,20
+365,3,35,1,Los caballeros oscuros,23
+366,30,155,2,Smith y Jones,45
+367,3,33,1,Juventud con dio,23
+368,18,118,2,Lleg√≥ de la Noche√≥sfera,21
+369,4,54,2,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
+370,4,59,5,El precio del poder,20
+371,20,125,3,La mujer de acero,42
+372,3,44,3,Tower of gray,23
+373,4,60,5,Un asunto shinobi,21
+374,19,122,3,Los siete magn√≠ficos,58
+375,3,49,4,Los Hermanos Nijimura (Parte 2),23
+376,3,42,3,¬°¬øqui√©n ser√° el juez?!,23
+377,25,140,3,Interludio,23
+378,4,62,6,Ojo de halc√≥n,20
+379,3,41,3,un hombre pose√≠do por un esp√≠ritu maligno,23
+380,3,46,4,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
+381,18,117,1,Panico en la fiesta del palacio,21
+382,3,47,4,¬°Josuke Higashikata! Conoce a Angelo,23
+383,25,138,1,El alquimista de acero,23
+384,29,150,1,Estudio en rosa,60
+385,3,36,2,El jojo de nueva york,23
+386,4,53,2,El nuevo objetivo,22
+387,3,45,3,Silver Chariot,23
+388,4,55,3,Pesadilla,21
+389,18,119,3,El recuerdo de un recuerdo,21
+390,4,51,1,El regreso a casa,22
+391,30,153,1,Rose,45
+392,4,61,6,La pupila de la serpiente,20
+393,3,38,2,El hombre del pilar,23
+394,3,31,1,Dio: el invasor,23
+395,3,40,2,Los guerreros definitivos de tiempos antiguos,23
+396,4,58,4,La invasi√≥n de Akatsuki,21
+397,3,43,3,La maldici√≥n de dio,23
+398,26,143,3,El despertar,24
+399,29,151,2,Esc√°ndalo en Belgravia,60
+400,20,124,2,Las aventuras de Supergirl,40
+401,4,55,3,Pesadilla,21
+402,3,38,2,El hombre del pilar,23
+403,4,61,6,La pupila de la serpiente,20
+404,4,59,5,El precio del poder,20
+405,14,105,1,Partida x Y x Compa√±eros,24
+406,10,95,3,Empieza el juego,24
+407,4,57,4,La amenaza que se acerca en silencio,20
+408,4,58,4,La invasi√≥n de Akatsuki,21
+409,4,60,5,Un asunto shinobi,21
+410,3,42,3,¬°¬øqui√©n ser√° el juez?!,23
+411,3,39,2,Jojo vs. la forma de vida definitiva,23
+412,3,43,3,La maldici√≥n de dio,23
+413,3,45,3,Silver Chariot,23
+414,19,120,1,Wendigo,55
+415,20,123,1,M√°s fuertes juntos,35
+416,10,94,2,Libreta de h√©roes,24
+417,14,106,2,Un x Guardi√°n x Peligroso,24
+418,3,36,2,El jojo de nueva york,23
+419,3,46,4,¬°Jotaro Kujo! Conoce a Josuke Higashikata,23
+420,3,50,4,Los Hermanos Nijimura (Parte 3),23
+421,19,122,3,Los siete magn√≠ficos,58
+422,4,54,2,¬°Formaci√≥n: el nuevo equipo Kakashi!,20
+423,3,41,3,un hombre pose√≠do por un esp√≠ritu maligno,23
+424,4,62,6,Ojo de halc√≥n,20
+425,4,64,7,El sucesor de la t√©cnica prohibida,22
+426,3,34,1,Overdrive,23
+427,24,136,2,El tit√°n bestia,23
+428,3,33,1,Juventud con dio,23
+429,19,121,2,En mi tiempo de morir,50
+430,3,48,4,Los Hermanos Nijimura (Parte 1),23
+431,3,44,3,Tower of gray,23
+432,3,47,4,¬°Josuke Higashikata! Conoce a Angelo,23
+433,4,51,1,El regreso a casa,22
+434,3,32,1,Una carta del pasado,23
+435,3,37,2,El maestro del juego,23
+436,24,137,3,Se√±al de humo,23
+437,24,135,1,A ti: 2.000 a√±os en el futuro,23
+438,20,125,3,La mujer de acero,42
+439,4,53,2,El nuevo objetivo,22
+440,3,35,1,Los caballeros oscuros,23
+441,14,107,3,Respuesta de papa,24
+442,4,63,7,El viajero,20
+443,3,49,4,Los Hermanos Nijimura (Parte 2),23
+444,3,40,2,Los guerreros definitivos de tiempos antiguos,23
+445,20,124,2,Las aventuras de Supergirl,40
+446,10,93,1,Midoriya Izuku: Origen,24
+447,4,52,1,El Akatsuki comienza a moverse,20
+448,3,31,1,Dio: el invasor,23
+449,4,56,3,Viento,20
+450,23,132,1,Pilot,22
+451,23,134,3,The Rickshank Rickdemption,22
+452,23,133,2,A Rickle in Time,22
