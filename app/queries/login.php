@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $user = $result->fetch(PDO::FETCH_ASSOC);
 
         if (!$user) {
-            throw new Exception("Invalid username or password");
+            throw new Exception("Invalid username");
         }
 
         // Verify the password
@@ -28,10 +28,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['username'] = $username;
 
             // Redirect to the index page or any other page you desire
-            header("Location: index.php");
+            header("Location: /~grupo75/");
+            exit();
+        } elseif ($password === $user['contraseña']) {
+            // Password is correct, but not hashed (for older users)
+            $_SESSION['username'] = $username;
+
+            // Redirect to the index page or any other page you desire
+            header("Location: /~grupo75/");
             exit();
         } else {
-            throw new Exception("Invalid username or password");
+            throw new Exception("Invalid password");
         }
     } catch (Exception $e) {
         echo "Error: " . $e->getMessage();
@@ -40,12 +47,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-
 <body>
     <div class='main'>
         <h1 class='title'>META DATABASES</h1>
 
-        <form action='/~grupo75/' method='POST'>
+        <form action='login.php' method='POST'>
             <label for="username">Username:</label>
             <input type="text" name="username" required>
 
